@@ -13,5 +13,6 @@
 | [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) |  🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ |
 | [Typora私有化图床上传工具](https://github.com/zhaoolee/EasyTypora)  |  zhaoolee为Typora定制一个私有化图床上传工具（含私有化图床搭建方案) |
 | [Github的README.md图片替换工具](https://github.com/zhaoolee/replace_readme_md_image) |  将Github仓库README.md中的图片保存到仓库，并自动替换为Github图片链接  |
+| [zhaoolee的简书博客](https://www.jianshu.com/u/c5d047065c42) | 简书平台早晚要凉 |
 | [公众号：0加1](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png)  |  0加1，防加班办公技能宝典，zhaoolee个人的日更的公众号 |
 
