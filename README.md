@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![zhaoolee](https://github-readme-stats.vercel.app/api?username=zhaoolee&show_icons=true)
+
 <!--
 **zhaoolee/zhaoolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
