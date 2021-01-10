@@ -5,7 +5,7 @@
 
 ## zhaoolee折腾的一些好玩的
 
-|  <div style="display: inline-block; width: 600px;">名称</div>  |  描述   |
+| 名称 |  描述   |
 | ---    | --- |
 | [《V2方圆》](https://v2fy.com)  | zhaoolee的个人网站，**挖掘稀缺资源** |
 | [《Chrome插件英雄榜 ChromeAppHeroes》](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本开源中文说明书, 让Chrome插件英雄们造福人类~ |
