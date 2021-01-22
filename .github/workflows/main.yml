@@ -1,7 +1,7 @@
 name: zhaoolee
 on:
   schedule:
-    - cron: '0/10 * * * *'
+    - cron: '0/5 * * * *'
 jobs:
   push:
       runs-on: ubuntu-20.04
@@ -12,10 +12,6 @@ jobs:
         with:
           command: install -d # Install all dependencies, including development ones
       - name: Build
-        env:
-            USERNAME: ${{ secrets.USERNAME }}
-            PASSWORD: ${{ secrets.PASSWORD }}
-            XMLRPC_PHP: ${{ secrets.XMLRPC_PHP }}
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
           command: run build
@@ -26,5 +22,5 @@ jobs:
           git config --global user.name "zhaoolee"
           git pull
           git add README.md
-          git commit -m "Github Action auto Updated"
+          git commit -m "Github Action Auto Updated"
           git push
