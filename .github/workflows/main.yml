@@ -1,7 +1,7 @@
 name: zhaoolee
 on:
   schedule:
-    - cron:  '6,16,26,36,46,56 * * * *'
+    - cron: "*/5 * * * *"
 jobs:
   push:
       runs-on: ubuntu-20.04
