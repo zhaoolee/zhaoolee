@@ -1,7 +1,10 @@
-name: zhaoolee
+name: 'zhaoolee'
+
 on:
+  push:
   schedule:
     - cron: "5/5 * * * *"
+
 jobs:
   stale:
       runs-on: ubuntu-20.04
