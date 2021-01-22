@@ -24,6 +24,7 @@ jobs:
           git diff
           git config --global user.email "zhaoolee@gmail.com"
           git config --global user.name "zhaoolee"
+          git pull
           git add README.md
           git commit -m "Github Action auto Updated"
           git push
