@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "*/5 * * * *"
 jobs:
-  push:
+  stale:
       runs-on: ubuntu-20.04
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
