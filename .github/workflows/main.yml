@@ -1,10 +1,7 @@
 name: zhaoolee
 on:
   schedule:
-    - cron:  '*/10 * * * *'    # 每10分钟更新一次
-  push:
-    branches:    
-      - main
+    - cron: '*/10 * * * *'
 jobs:
   push:
       runs-on: ubuntu-20.04
