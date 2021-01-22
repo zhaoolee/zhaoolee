@@ -3,11 +3,11 @@ name: 'zhaoolee'
 on:
   push:
   schedule:
-    - cron: '5/5 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   stale:
-      runs-on: ubuntu-20.04
+      runs-on: ubuntu-18.04
       steps:
       - uses: actions/checkout@v2 # Checking out the repo
       - name: Install dependecies
