@@ -1,7 +1,7 @@
-name: fangyuanxiaozhan
+name: zhaoolee
 on:
   schedule:
-    - cron:  '*/5 * * * *'    # At every 5th minute
+    - cron:  '*/10 * * * *'    # 每10分钟更新一次
   push:
     branches:    
       - main

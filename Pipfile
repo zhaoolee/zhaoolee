@@ -11,6 +11,7 @@ build = "python main.py"
 [packages]
 requests = "2.25.1"
 feedparser = "6.0.2"
+pytz = "2020.5"
 
 [requires]
 python_version = "3.7"

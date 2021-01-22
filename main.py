@@ -2,7 +2,8 @@ import feedparser
 import time
 import os
 import re
-
+import pytz
+from datetime import datetime
 
 def get_link_info(feed_url, num):
 
@@ -44,8 +45,9 @@ def main():
     insert_info = v2fy_info + fangyuanxiaozhan_info
 
     # 替换 ---start--- 到 ---end--- 之间的内容
-
-    insert_info = "---start---\n\n## 最近更新文章(" + time.strftime('%Y年%m月%d日%H时%M分%S秒') + "更新)" +"\n" + insert_info + "\n---end---"
+    # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
+    fmt = '%Y-%m-%d %H:%M:%S %Z%z'
+    insert_info = "---start---\n\n## 最近更新文章(" +  datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + "更新)" +"\n" + insert_info + "\n---end---"
 
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
