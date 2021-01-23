@@ -4,7 +4,7 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-01-23 16:16:13 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-01-23 16:57:10 | 通过Github Actions自动更新)
 
 [安卓微信 8.0 抢先体验内测版地址（附隐藏封面玩法）乌合麒麟的新作《命令与征服》2CD资源](https://v2fy.com/p/2021-01-22-mingling-1611280589000/)
 
@@ -12,11 +12,11 @@
 
 [锤子便签5GB免费空间，网页版加App全平台通用，不插图片可以用到锤子倒闭，亏的锤子做公交车](https://v2fy.com/p/2021-01-15-note-1610704261000/)
 
+[使用Github Actions 动态更新Github主页](https://fangyuanxiaozhan.com/p/2020-01-23-15-github-actions-blog/)
+
 [《百度网盘闲时下载卡》别家公司996, 我百度凌晨1点刚上线，如何改进闲时下载卡？Make Baidu Great Again！](https://fangyuanxiaozhan.com/p/2020-01-21-13-baidupan/)
 
 [从「我的代码要改变世界」到「代码也不是最重要滴」](https://fangyuanxiaozhan.com/p/2020-01-20-code/)
-
-[Xbox 2020 series手柄体验实录（附自制Xbox体感射击技巧）](https://fangyuanxiaozhan.com/p/2020-01-19-08-00-xbox-2020-series/)
 
 ---end---
 
