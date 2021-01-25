@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-01-25 10:57:07 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-01-25 12:04:59 | 通过Github Actions自动更新)
+
+[安卓手机版全功能Adobe Photoshop离线安装包](https://v2fy.com/p/2021-01-25-adobe-photoshop-1611542427000/)
 
 [安卓微信 8.0 抢先体验内测版地址（附隐藏封面玩法）乌合麒麟的新作《命令与征服》2CD资源](https://v2fy.com/p/2021-01-22-mingling-1611280589000/)
 
 [最新最好用的Windows搜索工具Everything_v1.4.1.1004单文件版](https://v2fy.com/p/2021-01-21-1611197628000/)
-
-[锤子便签5GB免费空间，网页版加App全平台通用，不插图片可以用到锤子倒闭，亏的锤子做公交车](https://v2fy.com/p/2021-01-15-note-1610704261000/)
 
 [193MB的 Office 2016 四合一精简版，支持 win7 win8 win8.1 win10 x86/x64 系统](https://fangyuanxiaozhan.com/p/2020-01-24-office2016/)
 
