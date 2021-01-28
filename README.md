@@ -4,7 +4,7 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-01-28 08:40:24 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-01-28 09:42:14 | 通过Github Actions自动更新)
 
 [安卓手机版全功能Adobe Photoshop离线安装包](https://v2fy.com/p/2021-01-25-adobe-photoshop-1611542427000/)
 
@@ -12,11 +12,11 @@
 
 [最新最好用的Windows搜索工具Everything_v1.4.1.1004单文件版](https://v2fy.com/p/2021-01-21-1611197628000/)
 
+[轻薄的代价（纪念不足两岁MacBook轻薄本的陨落）](https://fangyuanxiaozhan.com/p/2020-01-28-09/)
+
 [PP鸭最佳替代品！《图压》批量压缩图片而不损失画质，支持JPG,PNG,GIF,SVG](https://fangyuanxiaozhan.com/p/2021-01-26-13/)
 
 [解决Chrome开发中http强制跳转https](https://fangyuanxiaozhan.com/p/2021-01-25-24/)
-
-[Node.js爬虫获取漫威超级英雄电影海报](https://fangyuanxiaozhan.com/p/2021-01-25-23/)
 
 ---end---
 
