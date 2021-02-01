@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-01 18:22:02 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-01 18:48:19 | 通过Github Actions自动更新)
+
+[选择Deepin的八个理由](https://v2fy.com/p/2021-02-01-deepin-1612173778000/)
 
 [避免package.json软件包自动升级导致出错](https://v2fy.com/p/2021-02-01-npm-1612147613000/)
 
 [分享一个不足50MB的迷你CAD绿色软件包](https://v2fy.com/p/2021-01-30-cad-1611971022000/)
-
-[安卓手机版全功能Adobe Photoshop离线安装包](https://v2fy.com/p/2021-01-25-adobe-photoshop-1611542427000/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
