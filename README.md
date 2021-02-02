@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-02 09:39:29 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-02 10:21:37 | 通过Github Actions自动更新)
+
+[082AttackOnTitan_进击的巨人_BQB](https://v2fy.com/p/082attackontitan_%e8%bf%9b%e5%87%bb%e7%9a%84%e5%b7%a8%e4%ba%ba_bqb/)
 
 [选择Deepin的八个理由](https://v2fy.com/p/2021-02-01-deepin-1612173778000/)
 
 [避免package.json软件包自动升级导致出错](https://v2fy.com/p/2021-02-01-npm-1612147613000/)
-
-[分享一个不足50MB的迷你CAD绿色软件包](https://v2fy.com/p/2021-01-30-cad-1611971022000/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
