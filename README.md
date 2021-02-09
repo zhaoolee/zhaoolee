@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-09 17:52:20 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-09 18:14:36 | 通过Github Actions自动更新)
+
+[093《Search to Play the Song》在浏览器中随时听我想听的歌~(周杰伦的也行)](https://v2fy.com/p/093-sps-2021-02-09/)
 
 [如何在全平台Windows Mac Linux中使用7z压缩解压？](https://v2fy.com/p/2021-02-09-p7zip-1612840652000/)
 
 [如何恢复Windows自动更新?](https://v2fy.com/p/2021-02-09-winupdate-1612838519000/)
-
-[092《Copyfish 🐟 Free OCR Software》自动截图识别网页中的文字](https://v2fy.com/p/092-copyfish-ocr-2021-02-08/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
