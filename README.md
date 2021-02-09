@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-09 23:02:11 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-09 23:25:19 | 通过Github Actions自动更新)
+
+[在WSL终端中使用Windows打开文件夹，打开文件](https://v2fy.com/p/2021-02-09-wsl-open-dir-1612881720000/)
 
 [查看Chrome下载的扩展程序位置](https://v2fy.com/p/2021-02-09-find-chrome-ex-1612874563000/)
 
 [093《Search to Play the Song》在浏览器中随时听我想听的歌~(周杰伦的也行)](https://v2fy.com/p/093-sps-2021-02-09/)
-
-[如何在全平台Windows Mac Linux中使用7z压缩解压？](https://v2fy.com/p/2021-02-09-p7zip-1612840652000/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
