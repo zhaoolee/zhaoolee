@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-09 10:51:55 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-09 11:14:26 | 通过Github Actions自动更新)
+
+[如何恢复Windows自动更新?](https://v2fy.com/p/2021-02-09-winupdate-1612838519000/)
 
 [092《Copyfish 🐟 Free OCR Software》自动截图识别网页中的文字](https://v2fy.com/p/092-copyfish-ocr-2021-02-08/)
 
 [将树莓派3B刷成OpenWrt软路由，成为魔法WiFi上网的强大路由器](https://v2fy.com/p/2021-02-06-pi3-1612603909000/)
-
-[专业版OfficeSuite超好用的手机移动办公App](https://v2fy.com/p/2021-02-06-office-1612575348000/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
