@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-13 16:16:47 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-13 16:38:48 | 通过Github Actions自动更新)
+
+[如何让Windows文件管理器滚动如macOS奶油般顺滑？](https://v2fy.com/p/2021-02-13-win-smooth-1613196399000/)
 
 [为Windows系统替换优雅的苹方好看的OPPO字体](https://v2fy.com/p/2021-02-12-pingfang-1613099846000/)
 
 [程序员福音！Win10下使用oh-my-zsh全攻略，让Win10开发更顺滑...](https://v2fy.com/p/2021-02-10-zsh-win-1612954923000/)
-
-[083ChineseNewYear_中国春节_BQB](https://v2fy.com/p/083chinesenewyear_%e4%b8%ad%e5%9b%bd%e6%98%a5%e8%8a%82_bqb/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
