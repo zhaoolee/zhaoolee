@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-14 12:16:22 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-14 12:44:37 | 通过Github Actions自动更新)
+
+[094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://v2fy.com/p/094-smoothscroll-2021-02-14/)
 
 [如何让Windows文件管理器滚动如macOS奶油般顺滑？](https://v2fy.com/p/2021-02-13-win-smooth-1613196399000/)
 
 [为Windows系统替换优雅的苹方好看的OPPO字体](https://v2fy.com/p/2021-02-12-pingfang-1613099846000/)
-
-[程序员福音！Win10下使用oh-my-zsh全攻略，让Win10开发更顺滑...](https://v2fy.com/p/2021-02-10-zsh-win-1612954923000/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
