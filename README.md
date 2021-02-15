@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-15 17:15:22 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-15 17:35:28 | 通过Github Actions自动更新)
+
+[如何解决录音嗡嗡嗡？VoiceMeeter加OBS免费且强大的录音录像解决方案](https://v2fy.com/p/2021-02-15-obs-voicemeeter-1613380328000/)
 
 [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://v2fy.com/p/094-smoothscroll-2021-02-14/)
 
 [如何让Windows文件管理器滚动如macOS奶油般顺滑？](https://v2fy.com/p/2021-02-13-win-smooth-1613196399000/)
-
-[为Windows系统替换优雅的苹方好看的OPPO字体](https://v2fy.com/p/2021-02-12-pingfang-1613099846000/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
