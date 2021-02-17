@@ -4,7 +4,7 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-17 16:16:33 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-17 16:44:43 | 通过Github Actions自动更新)
 
 [快来领取哔哩哔哩官方壁纸（2021年02月16日更新）](https://v2fy.com/p/2021-02-16-bilibili-wallpage-1613447775000/)
 
@@ -12,11 +12,11 @@
 
 [094《SmoothScroll》让网页滚动如奶油般顺滑的奇妙小工具](https://v2fy.com/p/094-smoothscroll-2021-02-14/)
 
+[《刺杀小说家》一个勇士屠恶龙救苍生的故事](https://fangyuanxiaozhan.com/p/2021-02-17-xiaoshuojia/)
+
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
 
 [轻薄的代价（纪念不足两岁MacBook轻薄本的陨落）](https://fangyuanxiaozhan.com/p/2021-01-28-09/)
-
-[PP鸭最佳替代品！《图压》批量压缩图片而不损失画质，支持JPG,PNG,GIF,SVG](https://fangyuanxiaozhan.com/p/2021-01-26-13/)
 
 ---end---
 
