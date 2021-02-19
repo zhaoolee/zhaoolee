@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-19 16:55:21 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-19 17:14:18 | 通过Github Actions自动更新)
+
+[我搬运《Chrome插件英雄榜》到知乎专栏，被禁言1天，然后申诉，改判7天...](https://v2fy.com/p/2021-02-19-zhihu-1613703684000/)
 
 [095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构](https://v2fy.com/p/095-json-formatter-2021-02-18/)
 
 [快来领取哔哩哔哩官方壁纸（2021年02月16日更新）](https://v2fy.com/p/2021-02-16-bilibili-wallpage-1613447775000/)
-
-[如何解决录音嗡嗡嗡？VoiceMeeter加OBS免费且强大的录音录像解决方案](https://v2fy.com/p/2021-02-15-obs-voicemeeter-1613380328000/)
 
 [《刺杀小说家》一个勇士屠恶龙救苍生的故事](https://fangyuanxiaozhan.com/p/2021-02-17-xiaoshuojia/)
 
