@@ -4,7 +4,7 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-22 17:48:25 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-22 18:13:02 | 通过Github Actions自动更新)
 
 [用Github构建完美知识体系，让毕生所学造福人类](https://v2fy.com/p/2021-02-20-github-1613798128000/)
 
@@ -12,11 +12,11 @@
 
 [095《JsonFormatter》轻量化Json开源格式化工具查看一言api接口字段数据结构](https://v2fy.com/p/095-json-formatter-2021-02-18/)
 
+[macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
+
 [《刺杀小说家》一个勇士屠恶龙救苍生的故事](https://fangyuanxiaozhan.com/p/2021-02-17-xiaoshuojia/)
 
 [衡水的中学为高考服务，996.icu为人民企业家服务](https://fangyuanxiaozhan.com/p/2021-01-29-20/)
-
-[轻薄的代价（纪念不足两岁MacBook轻薄本的陨落）](https://fangyuanxiaozhan.com/p/2021-01-28-09/)
 
 ---end---
 
