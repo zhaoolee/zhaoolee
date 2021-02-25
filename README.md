@@ -4,13 +4,13 @@
 
 ---start---
 
-## 最近更新文章(更新时间:2021-02-25 17:40:18 | 通过Github Actions自动更新)
+## 最近更新文章(更新时间:2021-02-25 17:58:53 | 通过Github Actions自动更新)
+
+[S047 《Github章鱼猫》一个Github章鱼猫插画页](https://v2fy.com/p/s047-octodex-github-com/)
 
 [《嘎!RSS》如何零成本搭建一个免费私有化舆情监控系统](https://v2fy.com/p/2021-02-24-rss-1614152461000/)
 
 [用Github构建完美知识体系，让毕生所学造福人类](https://v2fy.com/p/2021-02-20-github-1613798128000/)
-
-[我搬运《Chrome插件英雄榜》到知乎专栏，被禁言1天，然后申诉，改判7天...](https://v2fy.com/p/2021-02-19-zhihu-1613703684000/)
 
 [macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
 
