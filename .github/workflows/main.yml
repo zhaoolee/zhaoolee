@@ -3,7 +3,7 @@ name: 'zhaoolee'
 on:
   push:
   schedule:
-    - cron: '0/15 * * * *'
+    - cron: '0/30 * * * *'
 
 jobs:
   stale:
