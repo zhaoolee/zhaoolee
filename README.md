@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-02 16:26:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-02 16:48:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[《资源》网站百宝箱Addog](https://v2fy.com/p/website-000003-addog/)
+[097《假装水墨屏》让网页内容变成水墨屏效果](https://v2fy.com/p/097-fake-ink-screen-2021-02-27/)
 
-[website-000004-music-pic](https://v2fy.com/p/website-000004-music-pic/)
+[096《Feedbro》在Chrome中订阅RSS信息流](https://v2fy.com/p/096-feedbro-2021-02-27/)
 
-[《资源》获取Pixiv最新插画](https://v2fy.com/p/website-000002-pixiv/)
+[欢迎订阅我的RSS](https://v2fy.com/p/2021-02-26-my-rss-1614303658000/)
 
 [macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
 
