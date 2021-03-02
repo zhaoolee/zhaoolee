@@ -4,7 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-02 15:21:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-02 15:42:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《资源》网站百宝箱Addog](https://v2fy.com/p/website-000003-addog/)
+
+[website-000004-music-pic](https://v2fy.com/p/website-000004-music-pic/)
+
+[《资源》获取Pixiv最新插画](https://v2fy.com/p/website-000002-pixiv/)
 
 [macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
 
