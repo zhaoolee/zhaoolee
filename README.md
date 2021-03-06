@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-06 16:26:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-06 16:48:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何「克隆」自己的Github仓库?](https://v2fy.com/p/2020-03-03-template/)
 
@@ -12,11 +12,11 @@
 
 [097《假装水墨屏》让网页内容变成水墨屏效果](https://v2fy.com/p/097-fake-ink-screen-2021-02-27/)
 
+[重看经典动漫《火影忍者》的一些感受](https://fangyuanxiaozhan.com/p/2021-03-06-huoying/)
+
 [计算机本科生从业金融两年的经验](https://fangyuanxiaozhan.com/p/2021-03-04-15/)
 
 [macOS刷机后，分享一波必装软件](https://fangyuanxiaozhan.com/p/2021-02-22-mac-soft/)
-
-[《刺杀小说家》一个勇士屠恶龙救苍生的故事](https://fangyuanxiaozhan.com/p/2021-02-17-xiaoshuojia/)
 
 ---end---
 
