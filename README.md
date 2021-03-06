@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-06 18:46:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-06 19:20:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[S048 《RSS获取》一个通过Github Actions定时获取RSS的开源工具页](https://v2fy.com/p/s048-rss/)
 
 [如何「克隆」自己的Github仓库?](https://v2fy.com/p/2020-03-03-template/)
 
 [098《RSSHub Radar》可以帮助你快速发现和订阅当前网站RSS的浏览器扩展](https://v2fy.com/p/098-rsshub-radar-2021-03-02/)
-
-[097《假装水墨屏》让网页内容变成水墨屏效果](https://v2fy.com/p/097-fake-ink-screen-2021-02-27/)
 
 [重看经典动漫《火影忍者》的一些感受](https://fangyuanxiaozhan.com/p/2021-03-06-huoying/)
 
