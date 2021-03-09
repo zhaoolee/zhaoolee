@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-09 13:45:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-09 14:24:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[如何优雅获取B站壁纸？](https://v2fy.com/p/2021-03-09-bilibili-paper-1615269784000/)
 
 [如何快捷下载不知名小网站的视频？](https://v2fy.com/p/2021-03-08-1615165838000/)
 
 [S048 《RSS获取》一个通过Github Actions定时获取RSS的开源工具页](https://v2fy.com/p/s048-rss/)
-
-[如何「克隆」自己的Github仓库?](https://v2fy.com/p/2020-03-03-template/)
 
 [「简书营销号」是非常邪门的黑色幽默，也就比百度莆田系好了那么一丢丢……](https://fangyuanxiaozhan.com/p/2021-03-07-jianshu/)
 
