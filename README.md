@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-14 08:59:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-14 09:59:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何识别视频中的中文语音并导出标准srt字幕文件?](https://v2fy.com/p/2021-03-10-premiere-1615356371000/)
 
@@ -12,11 +12,11 @@
 
 [如何快捷下载不知名小网站的视频？](https://v2fy.com/p/2021-03-08-1615165838000/)
 
+[《原神》手残玩家如何获得紧张刺激的游戏体验?](https://fangyuanxiaozhan.com/p/2021-03-14-yuanshen/)
+
 [《游戏摄影》原神](https://fangyuanxiaozhan.com/p/2021-03-12-yuanshen-images/)
 
 [《原神》如何从腾讯游戏口中抢到肉?](https://fangyuanxiaozhan.com/p/2021-03-11-yuanshen/)
-
-[「简书营销号」是非常邪门的黑色幽默，也就比百度莆田系好了那么一丢丢……](https://fangyuanxiaozhan.com/p/2021-03-07-jianshu/)
 
 ---end---
 
