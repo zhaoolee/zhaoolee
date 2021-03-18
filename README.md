@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-18 18:25:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-18 18:47:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何识别视频中的中文语音并导出标准srt字幕文件?](https://v2fy.com/p/2021-03-10-premiere-1615356371000/)
 
@@ -12,11 +12,11 @@
 
 [如何快捷下载不知名小网站的视频？](https://v2fy.com/p/2021-03-08-1615165838000/)
 
+[完美远程办公网络配置的研究（支持无缝使用内网服务，高速魔法上网）](https://fangyuanxiaozhan.com/p/2021-03-18-work-net/)
+
 [荒野之息和原神让我打开新世界，顺便入手了Xbox手柄和NS Pro喷射战士手柄](https://fangyuanxiaozhan.com/p/2021-03-17-ns-xbox/)
 
 [Github可白嫖的Pages和Actions有什么用?](https://fangyuanxiaozhan.com/p/2021-03-15-github/)
-
-[《原神》手残玩家如何获得紧张刺激的游戏体验?](https://fangyuanxiaozhan.com/p/2021-03-14-yuanshen/)
 
 ---end---
 
