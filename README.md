@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-25 12:41:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-25 13:37:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [将iPad折腾为台式机的调色扩展屏幕](https://v2fy.com/p/2021-03-24-ipad-power-1616550808000/)
 
@@ -12,11 +12,11 @@
 
 [如何识别视频中的中文语音并导出标准srt字幕文件?](https://v2fy.com/p/2021-03-10-premiere-1615356371000/)
 
+[一加8 线刷官方ColorOS尝鲜版遇到的各种问题及解决方案](https://fangyuanxiaozhan.com/p/2021-03-25-oneplus-coloros/)
+
 [等90后00后老了，如何忽悠TA们?](https://fangyuanxiaozhan.com/p/2021-03-23-9000-money/)
 
 [网游厂商与玩家之间为何会产生矛盾?](https://fangyuanxiaozhan.com/p/2021-03-21-game-player/)
-
-[完美远程办公网络配置的研究（支持无缝使用内网服务，高速魔法上网）](https://fangyuanxiaozhan.com/p/2021-03-18-work-net/)
 
 ---end---
 
