@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-26 22:25:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-03-26 22:46:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [100《Volume master》完美控制每个网页的音量](https://v2fy.com/p/100-volume-master-2021-03-25/)
 
@@ -12,11 +12,11 @@
 
 [099《Get Favicon》一键获取网站的超清图标](https://v2fy.com/p/099-get-favicon-2021-03-22/)
 
+[摄影是一门接地气的混合艺术](https://fangyuanxiaozhan.com/p/2021-03-26-camera/)
+
 [编程语言很流行，并不是因为它很优秀，而是因为它很简单](https://fangyuanxiaozhan.com/p/2021-03-26-code/)
 
 [一加8 线刷官方ColorOS尝鲜版遇到的各种问题及解决方案](https://fangyuanxiaozhan.com/p/2021-03-25-oneplus-coloros/)
-
-[等90后00后老了，如何忽悠TA们?](https://fangyuanxiaozhan.com/p/2021-03-23-9000-money/)
 
 ---end---
 
