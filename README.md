@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-04 10:32:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-04 11:31:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [100《Volume master》完美控制每个网页的音量](https://v2fy.com/p/100-volume-master-2021-03-25/)
 
@@ -12,11 +12,11 @@
 
 [099《Get Favicon》一键获取网站的超清图标](https://v2fy.com/p/099-get-favicon-2021-03-22/)
 
+[假期从深圳到长沙玩，忽然不想奋斗了](https://fangyuanxiaozhan.com/p/2021-04-04-changsha/)
+
 [在深圳某社康接种新冠疫苗的经历](https://fangyuanxiaozhan.com/p/2021-04-01-miao/)
 
 [如何用简书打造自媒体影响力？简书生态烂，水文多，但支持md免费全平台笔记就剩它了(无奈脸)](https://fangyuanxiaozhan.com/p/2021-03-28-jianshu/)
-
-[换个思路, 把简书当知识便签来用，能省很多时间，还能打造个人IP，积累粉丝](https://fangyuanxiaozhan.com/p/2021-03-28-note/)
 
 ---end---
 
