@@ -4,19 +4,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-07 09:10:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-07 10:34:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Linux命令行新建自带年月日时分秒时间戳的markdown文件名](https://v2fy.com/p/2021-04-07-touch-markdown-file-1617758150000/)
 
 [100《Volume master》完美控制每个网页的音量](https://v2fy.com/p/100-volume-master-2021-03-25/)
 
 [将iPad折腾为台式机的调色扩展屏幕](https://v2fy.com/p/2021-03-24-ipad-power-1616550808000/)
 
-[099《Get Favicon》一键获取网站的超清图标](https://v2fy.com/p/099-get-favicon-2021-03-22/)
+[不刷抖音/tiktok的N个理由](https://fangyuanxiaozhan.com/p/2021-04-07-09-09-49-tiktok/)
 
 [假期从深圳到长沙玩，忽然不想奋斗了](https://fangyuanxiaozhan.com/p/2021-04-04-changsha/)
 
 [在深圳某社康接种新冠疫苗的经历](https://fangyuanxiaozhan.com/p/2021-04-01-miao/)
-
-[如何用简书打造自媒体影响力？简书生态烂，水文多，但支持md免费全平台笔记就剩它了(无奈脸)](https://fangyuanxiaozhan.com/p/2021-03-28-jianshu/)
 
 ---end---
 
