@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-09 07:51:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-09 09:07:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [绕开登录限制,私有化部署Markdown转公众号格式神器mdnice教程](https://v2fy.com/p/2021-04-07-mdnice-1617764430000/)
 
@@ -12,11 +12,11 @@
 
 [100《Volume master》完美控制每个网页的音量](https://v2fy.com/p/100-volume-master-2021-03-25/)
 
+[未来取代微信的社交产品，或许是一个云服务的插件](https://fangyuanxiaozhan.com/p/2021-04-09-08-52-58-wechat-final/)
+
 [一个25岁金融行业程序员对未来生活的规划](https://fangyuanxiaozhan.com/p/2021-04-08-08-48-47-future/)
 
 [不刷抖音/tiktok的N个理由](https://fangyuanxiaozhan.com/p/2021-04-07-09-09-49-tiktok/)
-
-[假期从深圳到长沙玩，忽然不想奋斗了](https://fangyuanxiaozhan.com/p/2021-04-04-changsha/)
 
 ---end---
 
