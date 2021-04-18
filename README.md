@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-18 17:48:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-18 18:26:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[085Wangbingbing_王冰冰_BQB](https://v2fy.com/p/085wangbingbing_%e7%8e%8b%e5%86%b0%e5%86%b0_bqb/)
 
 [084Wuliuqi_刺客伍六七_BQB](https://v2fy.com/p/084wuliuqi_%e5%88%ba%e5%ae%a2%e4%bc%8d%e5%85%ad%e4%b8%83_bqb/)
 
 [为什么要写周刊以及写周刊需要考虑的问题](https://v2fy.com/p/2021-04-12-weekly-1618198340000/)
-
-[《zhaoolee的宝藏周刊》第1期](https://v2fy.com/p/2021-04-12-weekly-1-1618189418000/)
 
 [内容生产者的困境](https://fangyuanxiaozhan.com/p/2021-04-15-19-48-50-content/)
 
