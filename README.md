@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-20 18:26:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-20 19:21:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [《zhaoolee的宝藏周刊》第2期:  用星际远航拯救生育率问题](https://v2fy.com/p/2021-04-19-weekly-1618797895000/)
 
@@ -12,11 +12,11 @@
 
 [085Wangbingbing_王冰冰_BQB](https://v2fy.com/p/085wangbingbing_%e7%8e%8b%e5%86%b0%e5%86%b0_bqb/)
 
+[成熟的自动驾驶能为我们带来什么？](https://fangyuanxiaozhan.com/p/2021-04-20-17-12-37-car/)
+
 [内容生产者的困境](https://fangyuanxiaozhan.com/p/2021-04-15-19-48-50-content/)
 
 [程序员绝对是一个容易发胖的职业!程序员的自我修养:控制体重多运动](https://fangyuanxiaozhan.com/p/2021-04-14-22-19-38-hit/)
-
-[《进击的巨人》展现了日本羸弱的二次元文化](https://fangyuanxiaozhan.com/p/2021-04-10-17-32-06-attack-on-titan/)
 
 ---end---
 
