@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-21 17:50:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-21 18:26:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Windows数据恢复软件单文件绿色版](https://v2fy.com/p/2021-04-21-data-1619000540000/)
 
 [《zhaoolee的宝藏周刊》第2期:  用星际远航拯救生育率问题](https://v2fy.com/p/2021-04-19-weekly-1618797895000/)
 
 [086Yangchaoyue_杨超越_BQB](https://v2fy.com/p/086yangchaoyue_%e6%9d%a8%e8%b6%85%e8%b6%8a_bqb/)
-
-[085Wangbingbing_王冰冰_BQB](https://v2fy.com/p/085wangbingbing_%e7%8e%8b%e5%86%b0%e5%86%b0_bqb/)
 
 [成熟的自动驾驶能为我们带来什么？](https://fangyuanxiaozhan.com/p/2021-04-20-17-12-37-car/)
 
