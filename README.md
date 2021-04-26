@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-26 18:27:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-26 18:50:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何零基础做高质量PPT？](https://v2fy.com/p/2021-04-24-ppt-1619264823000/)
 
@@ -12,11 +12,11 @@
 
 [安装运行《传奇》单机绿色珍藏版](https://v2fy.com/p/2021-04-22-chuanqi-1619091883000/)
 
+[玩黑苹果的一些经验](https://fangyuanxiaozhan.com/p/2021-04-26-15-47-29-apple/)
+
 [成熟的自动驾驶能为我们带来什么？](https://fangyuanxiaozhan.com/p/2021-04-20-17-12-37-car/)
 
 [内容生产者的困境](https://fangyuanxiaozhan.com/p/2021-04-15-19-48-50-content/)
-
-[程序员绝对是一个容易发胖的职业!程序员的自我修养:控制体重多运动](https://fangyuanxiaozhan.com/p/2021-04-14-22-19-38-hit/)
 
 ---end---
 
