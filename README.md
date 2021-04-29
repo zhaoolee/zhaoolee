@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-29 20:35:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-04-29 21:30:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何零基础做高质量PPT？](https://v2fy.com/p/2021-04-24-ppt-1619264823000/)
 
@@ -12,11 +12,11 @@
 
 [安装运行《传奇》单机绿色珍藏版](https://v2fy.com/p/2021-04-22-chuanqi-1619091883000/)
 
+[如何才能不看知乎广告？手机浏览器安装Edge扩展程序通用教程](https://fangyuanxiaozhan.com/p/2021-04-29-19-22-49-zhihu/)
+
 [macOS哪些方面不如Windows?](https://fangyuanxiaozhan.com/p/2021-04-28-08-33-52-windows-mac/)
 
 [如何规划创建并长期维护一个Github开源项目?](https://fangyuanxiaozhan.com/p/2021-04-27-17-11-56-program/)
-
-[玩黑苹果的一些经验](https://fangyuanxiaozhan.com/p/2021-04-26-15-47-29-apple/)
 
 ---end---
 
