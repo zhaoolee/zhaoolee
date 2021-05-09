@@ -4,7 +4,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-09 15:44:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-09 16:26:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [用明基99%AdobeRGB的屏幕修一加8拍摄的夜景图片](https://v2fy.com/p/2021-05-05-benq-1620222216000/)
 
@@ -12,11 +12,11 @@
 
 [这或许是打开罗老师直播间不买东西的最佳app, 抖音5.64MB精简版](https://v2fy.com/p/2021-05-03-douyin-1620023777000/)
 
+[光头老法师手持尼康却能玩出佳能的效果](https://fangyuanxiaozhan.com/p/2021-05-09-15-35-28-fashi/)
+
 [开源新概念导航站需要什么功能及如何运营？](https://fangyuanxiaozhan.com/p/2021-05-09-15-17-23-in/)
 
 [如何写一个开源的灵感导航站？](https://fangyuanxiaozhan.com/p/2021-05-07-20-05-48-fangyuan-in/)
-
-[明基SW270C上手体验](https://fangyuanxiaozhan.com/p/2021-05-06-09-31-38-benq-sw270c/)
 
 ---end---
 
