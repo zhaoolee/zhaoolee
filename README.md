@@ -4,9 +4,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-14 17:28:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-14 17:53:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[103《Marinara》番茄工作法（Pomodoro®）助理](https://v2fy.com/p/103-marinara-2021-05-14/)
+[103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://v2fy.com/p/103-marinara-2021-05-14/)
 
 [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://v2fy.com/p/102-mobile-2021-05-13/)
 
