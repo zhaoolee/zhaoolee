@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-14 16:55:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-14 17:28:01 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[103《Marinara》番茄工作法（Pomodoro®）助理](https://v2fy.com/p/103-marinara-2021-05-14/)
 
 [102《特别篇：手机如何使用Chrome插件》手机端如何屏蔽知乎广告](https://v2fy.com/p/102-mobile-2021-05-13/)
 
 [101《Scroll To Top Button》一键滚动到页面顶部或底部](https://v2fy.com/p/101-scroll-to-top-button-2021-05-13/)
-
-[PhotoShop2021免激活学习绿色版](https://v2fy.com/p/2021-05-11-ps2021-1620712275000/)
 
 [最懂程序员面试的人，不一定是最优秀的开发者](https://fangyuanxiaozhan.com/p/2021-05-12-21-22-33-dev/)
 
