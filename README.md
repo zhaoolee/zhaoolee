@@ -4,13 +4,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-17 17:53:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-17 18:27:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[解锁Kindle电子书的加密格式](https://v2fy.com/p/2021-05-17-kindle-1621237478000/)
 
 [104《特别篇：星愿浏览器》下载一切可下载的视频](https://v2fy.com/p/104-twinkstar-2021-05-17/)
 
 [087AgeOfAwakening_觉醒年代_BQB](https://v2fy.com/p/087ageofawakening_%e8%a7%89%e9%86%92%e5%b9%b4%e4%bb%a3_bqb/)
-
-[103《Marinara 番茄工作法（Pomodoro®）助理》奇妙番茄钟, 提醒打工人及时休息](https://v2fy.com/p/103-marinara-2021-05-14/)
 
 [最懂程序员面试的人，不一定是最优秀的开发者](https://fangyuanxiaozhan.com/p/2021-05-12-21-22-33-dev/)
 
