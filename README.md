@@ -4,7 +4,6 @@
 
 ![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
-![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472049125FfzFCrKd.png)
 
 ---start---
 
