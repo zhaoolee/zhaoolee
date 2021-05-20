@@ -2,8 +2,11 @@
 
 ![zhaoolee](https://github-readme-stats.vercel.app/api?username=zhaoolee&show_icons=true)
 
+
+
 ![0加1](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
+**上图名为章鱼猫6兄贵** ⬆️ （zhaoolee的第一个MG动画， 素材来源 [https://octodex.github.com/](https://octodex.github.com/) ）
 
 ---start---
 
