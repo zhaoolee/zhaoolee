@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-25 17:32:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-25 17:56:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [这里有5030张88类免费开源表情包待领取!](https://v2fy.com/p/2021-05-23-chinesebqb-1621735166000/)
 
@@ -18,11 +18,11 @@
 
 [情人节快乐！送一份拼多多买的DNF地下城与勇士手机版单机游戏~](https://v2fy.com/p/2021-05-20-dnf-1621485192000/)
 
+[全职自媒体如何一步步做成臭要饭的？](https://fangyuanxiaozhan.com/p/2021-05-25-17-50-52-self-media/)
+
 [Github《章鱼猫六兄贵》我用AE做了一张公众号拉客Gif图](https://fangyuanxiaozhan.com/p/2021-05-21-14-38-12-ae/)
 
 [最懂程序员面试的人，不一定是最优秀的开发者](https://fangyuanxiaozhan.com/p/2021-05-12-21-22-33-dev/)
-
-[光头老法师手持尼康却能玩出佳能的效果](https://fangyuanxiaozhan.com/p/2021-05-09-15-35-28-fashi/)
 
 ---end---
 
