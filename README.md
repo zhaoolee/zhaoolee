@@ -53,5 +53,10 @@
 一个奥特曼表情包群, 讨论各种互联网技术, 也会发一些爬虫获取的一手资源...
 
 
+## zhaoolee的直播间
+
+[https://live.bilibili.com/22917242](https://live.bilibili.com/22917242)
+
+
 
 
