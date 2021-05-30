@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-30 23:36:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-05-31 01:21:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [090SailorMoon_美少女战士_BQB](https://v2fy.com/p/090sailormoon_%e7%be%8e%e5%b0%91%e5%a5%b3%e6%88%98%e5%a3%ab_bqb/)
 
@@ -18,11 +18,11 @@
 
 [105《潮汐》极简番茄钟与白噪音,和大自然一起，平静身心](https://v2fy.com/p/105-tide-2021-05-29/)
 
+[中国的房地产，挤公交地铁的打工人，需要哆啦A梦的任意门](https://fangyuanxiaozhan.com/p/2021-05-31-00-05-46-office/)
+
 [Apple大法好，法器不能用金钱来衡量~](https://fangyuanxiaozhan.com/p/2021-05-28-20-08-36-apple/)
 
 [焦虑腐蚀教育，崩坏技术社区](https://fangyuanxiaozhan.com/p/2021-05-28-20-11-54-it/)
-
-[如果每次听人爆粗Win10能收到一块钱，我特么早就发了…](https://fangyuanxiaozhan.com/p/2021-05-28-20-10-42-windows/)
 
 ---end---
 
