@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-02 13:51:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-02 15:57:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [091LetTheBulletsFly_让子弹飞_BQB](https://v2fy.com/p/091letthebulletsfly_%e8%ae%a9%e5%ad%90%e5%bc%b9%e9%a3%9e_bqb/)
 
@@ -18,11 +18,11 @@
 
 [089TeaBoy_饮茶哥_BQB](https://v2fy.com/p/089teaboy_%e9%a5%ae%e8%8c%b6%e5%93%a5_bqb/)
 
+[运营微信公众号个人号面临的各种问题(写给2021年想开始公众号运营的身边人)](https://fangyuanxiaozhan.com/p/2021-06-02-14-45-57-weixin-blog/)
+
 [专家建议把三娃托管到Github, 每天上线看一眼有多少Star…](https://fangyuanxiaozhan.com/p/2021-06-01-09-51-49-three/)
 
 [中国的房地产，挤公交地铁的打工人，需要哆啦A梦的任意门](https://fangyuanxiaozhan.com/p/2021-05-31-00-05-46-office/)
-
-[Apple大法好，法器不能用金钱来衡量~](https://fangyuanxiaozhan.com/p/2021-05-28-20-08-36-apple/)
 
 ---end---
 
