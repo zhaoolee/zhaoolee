@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-06 07:36:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-06 09:42:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[107《I don't care about cookies》屏蔽所有网站询问Cookies授权的弹窗](https://v2fy.com/p/107-i-dont-care-about-cookies-2021-06-05/)
 
 [来自微信小程序首页的公共留言](https://v2fy.com/p/we-message/)
 
 [106《Browser Desktop》一款MacOS风格的浏览器桌面](https://v2fy.com/p/106-browser-desktop-2021-06-05/)
-
-[091LetTheBulletsFly_让子弹飞_BQB](https://v2fy.com/p/091letthebulletsfly_%e8%ae%a9%e5%ad%90%e5%bc%b9%e9%a3%9e_bqb/)
 
 [鸿蒙来了, 风口来了, 呼唤罗永浩老师回来做手机,Markdown爱好者zhaoolee为了在微信公众号使用锤子便签主题，自己花20分钟写了一个](https://fangyuanxiaozhan.com/p/2021-06-04-09-27-28-mdnice/)
 
