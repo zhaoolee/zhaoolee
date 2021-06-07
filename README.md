@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-07 23:51:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-08 01:43:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [为国内WordPress主机配置代理,解决从插件商店下载插件失败,无法验证Google官方插件Site Kit的问题](https://v2fy.com/p/2021-06-07-wordpress-clash-1623028274000/)
 
