@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-09 12:46:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-09 13:42:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[后代人的权利远比当代人的欲望更重要，零成本自建独立博客并分发到全平台的解决方案](https://v2fy.com/p/2021-06-09-md-1623205125000/)
 
 [108《Grabox》打通Chrome，Edge，FireFox，360，2345，QQ，搜狗等浏览器们的书签目录](https://v2fy.com/p/108-grabox-2021-06-08/)
 
 [为国内WordPress主机配置代理,解决从插件商店下载插件失败,无法验证Google官方插件Site Kit的问题](https://v2fy.com/p/2021-06-07-wordpress-clash-1623028274000/)
-
-[如何让国内的阿里云服务器可以高速下载Github代码](https://v2fy.com/p/2021-06-06-clash-wordpress-1622973106000/)
 
 [鸿蒙来了, 风口来了, 呼唤罗永浩老师回来做手机,Markdown爱好者zhaoolee为了在微信公众号使用锤子便签主题，自己花20分钟写了一个](https://fangyuanxiaozhan.com/p/2021-06-04-09-27-28-mdnice/)
 
