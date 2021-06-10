@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-10 20:35:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-10 21:36:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Linux是信仰，Mac和Windows的Wsl都是好的Linux](https://v2fy.com/p/2021-06-10-linux-1623324902000/)
 
