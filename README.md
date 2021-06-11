@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-11 11:05:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-11 11:53:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Linux是信仰，Mac和Windows的Wsl都是好的Linux](https://v2fy.com/p/2021-06-10-linux-1623324902000/)
 
@@ -18,11 +18,11 @@
 
 [后代人的权利远比当代人的欲望更重要，零成本自建独立博客并分发到全平台的解决方案](https://v2fy.com/p/2021-06-09-md-1623205125000/)
 
+[如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
+
 [鸿蒙来了, 风口来了, 呼唤罗永浩老师回来做手机,Markdown爱好者zhaoolee为了在微信公众号使用锤子便签主题，自己花20分钟写了一个](https://fangyuanxiaozhan.com/p/2021-06-04-09-27-28-mdnice/)
 
 [华为鸿蒙来了! 安卓和iOS也要变好了](https://fangyuanxiaozhan.com/p/2021-06-03-08-51-22-harmony/)
-
-[运营微信公众号个人号面临的各种问题(写给2021年想开始公众号运营的身边人)](https://fangyuanxiaozhan.com/p/2021-06-02-14-45-57-weixin-blog/)
 
 ---end---
 
