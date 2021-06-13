@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-13 13:43:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-13 14:26:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://v2fy.com/p/110-wechatsync-2021-06-13/)
+
+[109《GLaDOS》一款快捷签到领魔法上网天数的小工具](https://v2fy.com/p/109-glados-2021-06-09/)
 
 [给热心老哥搭个窝，2021年30分钟用Discourse搭建新一代BBS论坛站全攻略](https://v2fy.com/p/2021-06-12-discourse-2021-1623477573000/)
-
-[Linux是信仰，Mac和Windows的Wsl都是好的Linux](https://v2fy.com/p/2021-06-10-linux-1623324902000/)
-
-[iOS最新壁纸合集（共646张2021年6月10日更新）](https://v2fy.com/p/2021-06-10-ios-1623324238000/)
 
 [如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
 
