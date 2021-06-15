@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-15 17:22:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-15 17:47:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《在路上》朋克青年的奇幻之旅](https://v2fy.com/p/2021-06-15-lushang-1623749810000/)
 
 [092LuoXiang_罗翔_BQB](https://v2fy.com/p/092luoxiang_%e7%bd%97%e7%bf%94_bqb/)
 
 [110《微信公众号同步助手》快速将微信文章同步到知乎B站等创作平台](https://v2fy.com/p/110-wechatsync-2021-06-13/)
-
-[109《GLaDOS》一款快捷签到领魔法上网天数的小工具](https://v2fy.com/p/109-glados-2021-06-09/)
 
 [如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
 
