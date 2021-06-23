@@ -48,21 +48,19 @@
 
 ## zhaoolee自建的BBS站
 
-免费注册，注册后可发帖，BBS内容完全开放给所有搜索引擎索引，不禁止外链
+zhaoolee自建的BBS站免费注册，注册后可发帖，BBS内容完全开放给所有搜索引擎索引，不禁止外链，运营策略坚守在道德准线以上。
+
+[为什么要自建BBS站?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
 
 [BBS入口：https://bbs.v2fy.com/](https://bbs.v2fy.com/)
 
-- [《Chrome插件英雄榜》版块: https://bbs.v2fy.com/c/chromeappheroes/](https://bbs.v2fy.com/c/chromeappheroes/)
-
-- [《中国人的表情包ChineseBQB》版块: https://bbs.v2fy.com/c/chinesebqb/](https://bbs.v2fy.com/c/chinesebqb/)
-
-- [《在线工具秘籍》版块: https://bbs.v2fy.com/c/onlinetoolsbook/](https://bbs.v2fy.com/c/onlinetoolsbook/)
-
-- [《方圆灵感导航》版块: https://bbs.v2fy.com/c/in/](https://bbs.v2fy.com/c/in/)
-
-- [《自建BBS站Discourse技术指导讨论区》版块: https://bbs.v2fy.com/c/discourse/](https://bbs.v2fy.com/c/discourse/)
-
-[为什么要自建BBS站?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
+| 已开通 | 入口  |
+| --- | --- |
+| 《Chrome插件英雄榜》版块 | [https://bbs.v2fy.com/c/chromeappheroes/](https://bbs.v2fy.com/c/chromeappheroes/)  |
+| 《中国人的表情包ChineseBQB》版块 | [https://bbs.v2fy.com/c/chinesebqb/](https://bbs.v2fy.com/c/chinesebqb/)  |
+| 《在线工具秘籍》版块 | [https://bbs.v2fy.com/c/onlinetoolsbook/](https://bbs.v2fy.com/c/onlinetoolsbook/)  |
+| 《方圆灵感导航》版块 | [https://bbs.v2fy.com/c/in/](https://bbs.v2fy.com/c/in/)  |
+| 《自建BBS站Discourse技术指导讨论区》版块 | [https://bbs.v2fy.com/c/discourse/](https://bbs.v2fy.com/c/discourse/)  |
 
 
 ## zhaoolee建的企鹅群
