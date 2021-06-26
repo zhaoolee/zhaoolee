@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-26 17:22:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[Windows专用Office Tool Plus 8.2.3.0 office部署工具一体zip包(含.net5)](https://v2fy.com/p/2021-06-24-office-1624527564000/)
-
-[给热心老哥挪个窝,将BBS网站Discourse从海外主机完美迁移到国内云服务器, 实现国内主机同时运行WordPress和Discourse](https://v2fy.com/p/2021-06-21-discourse-1624274883000/)
-
-[《在路上》朋克青年的奇幻之旅](https://v2fy.com/p/2021-06-15-lushang-1623749810000/)
-
-[知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
-
-[自建BBS站有什么好处?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
-
-[如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-26 17:46:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
