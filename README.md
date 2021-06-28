@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-28 12:27:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-06-28 12:53:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[终端alias语法快捷配置魔法上网](https://v2fy.com/p/2021-06-28-setp-unsetp-1624854751000/)
 
 [零依赖!使用acme.sh设置nginx多个https证书自动更新，无限续期https证书](https://v2fy.com/p/2021-06-27-nginx-https-1624774964000/)
 
 [Windows专用Office Tool Plus 8.2.3.0 office部署工具一体zip包(含.net5)](https://v2fy.com/p/2021-06-24-office-1624527564000/)
-
-[给热心老哥挪个窝,将BBS网站Discourse从海外主机完美迁移到国内云服务器, 实现国内主机同时运行WordPress和Discourse](https://v2fy.com/p/2021-06-21-discourse-1624274883000/)
 
 [知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
 
