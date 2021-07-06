@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-07-06 17:44:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-07-06 18:23:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[如何哄骗文艺青年安装Node.js? 将网易云音乐灰色歌曲变亮](https://v2fy.com/p/2021-07-06-neteasemusic-1625566291000/)
 
 [比坚果云更好用！无需上传！用frp内网穿透将当前桌面或图片文件夹实时分享到互联网](https://v2fy.com/p/2021-07-05-frp-1625488942000/)
 
 [为树莓派4B安装OpenWrt镜像打造普通wifi转魔法wifi的便携路由器](https://v2fy.com/p/2021-07-04-openwrt-4b-1625383754000/)
-
-[《Python3.9优雅起飞指南》Ubuntu20.04从源码安装python3.9.6并配置完成pip3和pipenv教程](https://v2fy.com/p/2021-06-30-python396-1625013887000/)
 
 [知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
 
