@@ -10,7 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-07-14 07:45:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-07-14 09:01:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[将VSCode部署到服务器教程, 网页游戏上号！开始「云代码」！可作为ssh客户端使用~](https://v2fy.com/p/2021-07-12-vscode-1626075074000/)
+
+[优雅下载网易云灰色歌曲并同步到手机App](https://v2fy.com/p/2021-07-10-music-1625897899000/)
+
+[使用私人服务器,将网易云歌曲变亮,并分享给周围小伙伴](https://v2fy.com/p/2021-07-07-net-server-1625654857000/)
+
+[知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
+
+[自建BBS站有什么好处?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
+
+[如何开始写博客并长期坚持下去](https://fangyuanxiaozhan.com/p/2021-06-11-10-24-39-blog/)
 
 ---end---
 
