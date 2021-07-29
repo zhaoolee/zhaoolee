@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-07-29 09:04:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-07-29 10:14:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何下载Windows各版本纯净镜像? 附吾爱破解好评如潮的迅雷单文件版~](https://v2fy.com/p/2021-07-27-win-1627375107000/)
 
@@ -18,11 +18,11 @@
 
 [111《Unsplash For Chrome》查找免费无版权超清图并直接插入任意在线编辑器](https://v2fy.com/p/111-unsplash-for-chrome-2021-07-22/)
 
+[试水谷歌星际尺度开源工具k8s一手体验](https://fangyuanxiaozhan.com/p/2021-07-28-17-23-37-k8s/)
+
 [理工男生资源达人的梦想,树莓派低成本创造私人专属互联网的构想](https://fangyuanxiaozhan.com/p/2021-07-21-10-02-55-pi/)
 
 [知识是免费的，若想快速掌握，需要金钱的加持](https://fangyuanxiaozhan.com/p/2021-07-16-09-53-55-serve/)
-
-[知识的诅咒](https://fangyuanxiaozhan.com/p/2021-06-22-18-14-12-know/)
 
 ---end---
 
