@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-08-11 12:27:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[VirtualBox创建CentOS7虚拟机简洁教程](https://v2fy.com/p/2021-08-10-virtualbox-centos7-1628588525000/)
-
-[使用Docker快捷安装Gitlab社区版](https://v2fy.com/p/2021-08-10-gitlab-1628587945000/)
-
-[最适合为Docker制作基础瘦身镜像的Linux发行版Alpine](https://v2fy.com/p/2021-08-09-alpine-1628495013000/)
-
-[试水谷歌星际尺度开源工具k8s一手体验](https://fangyuanxiaozhan.com/p/2021-07-28-17-23-37-k8s/)
-
-[理工男生资源达人的梦想,树莓派低成本创造私人专属互联网的构想](https://fangyuanxiaozhan.com/p/2021-07-21-10-02-55-pi/)
-
-[知识是免费的，若想快速掌握，需要金钱的加持](https://fangyuanxiaozhan.com/p/2021-07-16-09-53-55-serve/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-08-11 12:57:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
