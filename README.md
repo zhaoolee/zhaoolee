@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-08-14 17:20:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-08-14 17:42:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Windows直接挂载Linux服务器硬盘](https://v2fy.com/p/2021-08-12-sshfs-1628753439000/)
 
@@ -18,11 +18,11 @@
 
 [使用Docker快捷安装Gitlab社区版](https://v2fy.com/p/2021-08-10-gitlab-1628587945000/)
 
+[减少电子产品对环境影响的唯一最佳方法是延长它们的使用寿命](https://fangyuanxiaozhan.com/p/2021-08-14-14-54-52-framework/)
+
 [试水谷歌星际尺度开源工具k8s一手体验](https://fangyuanxiaozhan.com/p/2021-07-28-17-23-37-k8s/)
 
 [理工男生资源达人的梦想,树莓派低成本创造私人专属互联网的构想](https://fangyuanxiaozhan.com/p/2021-07-21-10-02-55-pi/)
-
-[知识是免费的，若想快速掌握，需要金钱的加持](https://fangyuanxiaozhan.com/p/2021-07-16-09-53-55-serve/)
 
 ---end---
 
