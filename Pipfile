@@ -14,4 +14,4 @@ feedparser = "6.0.2"
 pytz = "2020.5"
 
 [requires]
-python_version = "3.7"
+python_version = "*"
