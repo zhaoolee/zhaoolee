@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-08-26 18:28:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-08-26 18:42:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [博主的目标是布道,自媒体的目标是赚钱](https://v2fy.com/p/2021-08-17-up-1629202481000/)
 
@@ -18,11 +18,11 @@
 
 [VirtualBox创建CentOS7虚拟机简洁教程](https://v2fy.com/p/2021-08-10-virtualbox-centos7-1628588525000/)
 
+[RSS优质内容订阅交流群](https://fangyuanxiaozhan.com/p/2021-08-26-18-05-01-rss/)
+
 [我是linus，你们的上帝！](https://fangyuanxiaozhan.com/p/2021-08-25-11-03-03-linus/)
 
 [8分故事2分代码的编程故事教程](https://fangyuanxiaozhan.com/p/2021-08-20-15-24-43-play/)
-
-[虚构推理 与 魔女之旅](https://fangyuanxiaozhan.com/p/2021-08-16-10-56-03-mounv/)
 
 ---end---
 
