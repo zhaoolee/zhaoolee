@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-09 10:48:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-09 11:22:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Chrome插件英雄榜112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
 
 [Node.JS保证稳定上线前必备操作，依赖包锁定npm shrinkwrap](https://v2fy.com/p/2021-09-08-npm-shrinkwrap-1631069084000/)
 
 [私有化部署RSSHub全记录](https://v2fy.com/p/2021-09-07-rsshub-1631018903000/)
-
-[什么是好的电子游戏?(其一)](https://v2fy.com/p/2021-09-06-game-1630926360000/)
 
 [如何选择好软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
 
