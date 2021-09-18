@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-18 16:22:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-18 16:43:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[095GenShin_原神_BQB](https://v2fy.com/p/095genshin_%e5%8e%9f%e7%a5%9e_bqb/)
 
 [094TeacherWang_夏洛特烦恼王老师_BQB](https://v2fy.com/p/094teacherwang_%e5%a4%8f%e6%b4%9b%e7%89%b9%e7%83%a6%e6%81%bc%e7%8e%8b%e8%80%81%e5%b8%88_bqb/)
 
 [Chrome插件英雄榜112《Smart TOC》节约滚动网页时间, 为任意网页自动添加索引，生成浮动智能小目录](https://v2fy.com/p/112-smart-toc-2021-09-09/)
-
-[Node.JS保证稳定上线前必备操作，依赖包锁定npm shrinkwrap](https://v2fy.com/p/2021-09-08-npm-shrinkwrap-1631069084000/)
 
 [如何选择好软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
 
