@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-24 07:40:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-24 09:08:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Windows 原生运行Linux如何自由访问互联网 WSL2 使用 Clash for Windows做代理](https://v2fy.com/p/2021-09-24-windows-clash-wsl2-1632440722000/)
+
+[存储空间不够用？不足40MB的养老国际版微博来了～](https://v2fy.com/p/2021-09-24-weibo-1632442371000/)
 
 [百度网盘不限速版下载](https://v2fy.com/p/2021-09-23-baidu-1632378590000/)
-
-[2021年，iPhone一点都不酷](https://v2fy.com/p/2021-09-19-iphone13-1632034861000/)
-
-[国产独立游戏之光《风来之国》在Mac和Windows都能玩的买断制像素风小游戏](https://v2fy.com/p/2021-09-19-eastward-1632034925000/)
 
 [如何选择好软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
 
