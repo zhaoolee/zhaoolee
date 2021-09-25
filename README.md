@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-26 04:40:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-26 05:17:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Windows 原生运行Linux如何自由访问互联网 WSL2 使用 Clash for Windows做代理](https://v2fy.com/p/2021-09-24-windows-clash-wsl2-1632440722000/)
 
