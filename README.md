@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-29 04:20:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[迪迦奥特曼国语版下载](https://v2fy.com/p/2021-09-26-dijia-1632634228000/)
-
-[Windows 原生运行Linux如何自由访问互联网 WSL2 使用 Clash for Windows做代理](https://v2fy.com/p/2021-09-24-windows-clash-wsl2-1632440722000/)
-
-[存储空间不够用？不足40MB的养老国际版微博来了～](https://v2fy.com/p/2021-09-24-weibo-1632442371000/)
-
-[如何选择好软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
-
-[RSS优质内容订阅交流群](https://fangyuanxiaozhan.com/p/2021-08-26-18-05-01-rss/)
-
-[我是linus，你们的上帝！](https://fangyuanxiaozhan.com/p/2021-08-25-11-03-03-linus/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-09-29 04:43:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
