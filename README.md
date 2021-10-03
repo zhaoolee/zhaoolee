@@ -69,10 +69,12 @@ zhaoolee自建的BBS站免费注册，注册后可发帖，BBS内容完全开放
 
 一个奥特曼表情包群, 讨论各种互联网技术, 也会发一些爬虫获取的一手资源...
 
+![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/zhaoolee-link.png)
+
+
 ## zhaoolee的直播间
 
 [https://live.bilibili.com/22917242](https://live.bilibili.com/22917242)
-
 
 
 
