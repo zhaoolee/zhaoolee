@@ -62,6 +62,9 @@ zhaoolee自建的BBS站免费注册，注册后可发帖，BBS内容完全开放
 | 《方圆灵感导航》版块 | [https://bbs.v2fy.com/c/in/](https://bbs.v2fy.com/c/in/)  |
 | 《自建BBS站Discourse技术指导讨论区》版块 | [https://bbs.v2fy.com/c/discourse/](https://bbs.v2fy.com/c/discourse/)  |
 
+## zhaoolee的Telegram频道（主要讨论树莓派内网穿透，树莓派NAS, 树莓派下载机，树莓派网站）
+
+[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
 ## zhaoolee建的企鹅群
 
