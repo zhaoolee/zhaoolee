@@ -6,7 +6,7 @@
 
 ![0加1-章鱼猫6兄贵](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1621472051345iXBTrJEW.gif)
 
-↑ 上图名为**章鱼猫六兄贵** （zhaoolee的第一个MG动画， 素材来源 [https://octodex.github.com/](https://octodex.github.com/) ）
+↑ 上图名为**章鱼猫六兄贵** （zhaoolee的第一个MG动画， 素材来源 [https://octodex.github.com/](https://octodex.github.com/) ） 点击公众号0加1第菜单栏「联系我」可以找到zhaoolee微信二维码，加zhaoolee微信好友
 
 ---start---
 
