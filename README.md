@@ -66,9 +66,15 @@ zhaoolee自建的BBS站免费注册，注册后可发帖，BBS内容完全开放
 
 [https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
+## zhaoolee建的微信群
+
+[点击查看二维码](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
+
 ## zhaoolee建的企鹅群
 
 700477996
+
+
 
 一个奥特曼表情包群, 讨论各种互联网技术, 也会发一些爬虫获取的一手资源...
 
