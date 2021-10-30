@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-10-30 21:40:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-10-30 22:18:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [在Windows,Mac，Linux中快速安装配置Node.js环境，并安装VSCode](https://v2fy.com/p/2021-10-27-node_js-1635325734000/)
 
