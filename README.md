@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-10-31 09:10:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-10-31 10:15:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [在Windows,Mac，Linux中快速安装配置Node.js环境，并安装VSCode](https://v2fy.com/p/2021-10-27-node_js-1635325734000/)
 
@@ -18,11 +18,11 @@
 
 [树莓派防吃灰！私人全平台网盘，自动签到，微博RSS，7×24下载机，个人网站](https://v2fy.com/p/2021-10-21-pi-1634776682000/)
 
-[想要任天堂Switch带来快乐，得加钱](https://fangyuanxiaozhan.com/p/2021-10-13-16-08-18-switch-oled/)
+[一个衡水考出来的深圳打工人对内卷教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-10-31-09-21-01-hengshui/)
 
-[树莓派有什么好玩的？](https://fangyuanxiaozhan.com/p/2021-10-13-16-11-39-pi/)
+[内容平台变广告平台，未来内容平台何去何从](https://fangyuanxiaozhan.com/p/2021-10-31-09-17-02-blog/)
 
-[如何选择好软件? 自由软件 > 开源软件 > 跨平台软件 > 行业知名大厂软件 > 绿色软件 > 不知名小厂收费软件](https://fangyuanxiaozhan.com/p/2021-09-07-08-06-37-soft/)
+[《沙丘》中国特供3D版真是安眠好电影](https://fangyuanxiaozhan.com/p/2021-10-31-09-22-20-shaqiu/)
 
 ---end---
 
