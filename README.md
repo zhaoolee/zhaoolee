@@ -10,9 +10,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-01 07:41:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-01 09:10:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[在Windows,Mac，Linux中快速安装配置Node.js环境，并安装VSCode](https://v2fy.com/p/2021-10-27-node_js-1635325734000/)
+[001 在Windows,Mac，Linux中快速安装配置Node.js环境，并安装VSCode, 完成Web端恒生交易日接口的图形化展示](https://v2fy.com/p/2021-10-27-node_js-1635325734000/)
 
 [最近打算出一门与金融相关的编程课，邀请感兴趣的人来做试听，顺便提提建议](https://v2fy.com/p/2021-10-26-program-1635255662000/)
 
