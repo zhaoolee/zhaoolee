@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-24 23:23:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-24 23:49:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [内容平台让用户在垃圾堆里刨食](https://v2fy.com/p/2021-11-24-content-1637766162000/)
 
@@ -18,11 +18,11 @@
 
 [为Nginx优雅配置https证书, 完善私有化部署RSSHub](https://v2fy.com/p/2021-11-24-nginx-rsshub-1637763933000/)
 
+[极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
+
 [高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
 
 [海外版微信Telegram重新定义优秀产品](https://fangyuanxiaozhan.com/p/2021-11-24-22-59-31-telegram/)
-
-[一个衡水考出来的深圳打工人对内卷教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-10-31-09-21-01-hengshui/)
 
 ---end---
 
