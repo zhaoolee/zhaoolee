@@ -10,19 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-24 22:40:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-24 23:23:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[内容平台让用户在垃圾堆里刨食](https://v2fy.com/p/2021-11-24-content-1637766162000/)
+
+[MacBook Pro 14寸上手体验报告](https://v2fy.com/p/2021-11-24-macbook-1637764940000/)
 
 [为Nginx优雅配置https证书, 完善私有化部署RSSHub](https://v2fy.com/p/2021-11-24-nginx-rsshub-1637763933000/)
 
-[《树莓派4B家庭服务器搭建指南》第八期：树莓派部署P2P文件同步服务程序syncthing全攻略](https://v2fy.com/p/2021-11-14-syncthing-1636866052000/)
+[高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
 
-[discouse-pi](https://v2fy.com/p/2021-11-05-discouse-pi-1636120009000/)
+[海外版微信Telegram重新定义优秀产品](https://fangyuanxiaozhan.com/p/2021-11-24-22-59-31-telegram/)
 
 [一个衡水考出来的深圳打工人对内卷教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-10-31-09-21-01-hengshui/)
-
-[内容平台变广告平台，未来内容平台何去何从](https://fangyuanxiaozhan.com/p/2021-10-31-09-17-02-blog/)
-
-[《沙丘》中国特供3D版真是安眠好电影](https://fangyuanxiaozhan.com/p/2021-10-31-09-22-20-shaqiu/)
 
 ---end---
 
