@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-24 22:20:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-24 22:40:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[为Nginx优雅配置https证书, 完善私有化部署RSSHub](https://v2fy.com/p/2021-11-24-nginx-rsshub-1637763933000/)
 
 [《树莓派4B家庭服务器搭建指南》第八期：树莓派部署P2P文件同步服务程序syncthing全攻略](https://v2fy.com/p/2021-11-14-syncthing-1636866052000/)
 
 [discouse-pi](https://v2fy.com/p/2021-11-05-discouse-pi-1636120009000/)
-
-[《树莓派4B家庭服务器搭建指南》第七期：使用树莓派解锁网易云灰色音乐，并通过公网分享给小伙伴](https://v2fy.com/p/2021-11-06-netmusic-pi-1636163886000/)
 
 [一个衡水考出来的深圳打工人对内卷教育和房产税的看法](https://fangyuanxiaozhan.com/p/2021-10-31-09-21-01-hengshui/)
 
