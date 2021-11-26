@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-26 17:43:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-11-26 18:24:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《树莓派4B家庭服务器搭建指南》第九期：用树莓派低成本给热心老哥搭个窝，在树莓派建立BBS论坛flarum并映射到公网全攻略](https://v2fy.com/p/2021-11-26-flarum-1637921368000/)
 
 [内容平台让用户在垃圾堆里刨食](https://v2fy.com/p/2021-11-24-content-1637766162000/)
 
 [MacBook Pro 14寸上手体验报告](https://v2fy.com/p/2021-11-24-macbook-1637764940000/)
-
-[为Nginx优雅配置https证书, 完善私有化部署RSSHub](https://v2fy.com/p/2021-11-24-nginx-rsshub-1637763933000/)
 
 [极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
 
