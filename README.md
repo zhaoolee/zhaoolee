@@ -10,7 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-09 19:39:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-09 20:35:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《树莓派4B家庭服务器搭建指南》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
+
+[《树莓派4B家庭服务器搭建指南》第十期：在树莓派部署TiddlyWiki完成读写权限分离，开放到公网，建立自己的个人知识库](https://v2fy.com/p/2021-11-27-wiki-1637997854000/)
+
+[《树莓派4B家庭服务器搭建指南》第九期：用树莓派低成本给热心老哥搭个窝，在树莓派建立BBS论坛flarum并映射到公网全攻略](https://v2fy.com/p/2021-11-26-flarum-1637921368000/)
+
+[极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
+
+[高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
+
+[海外版微信Telegram重新定义优秀产品](https://fangyuanxiaozhan.com/p/2021-11-24-22-59-31-telegram/)
 
 ---end---
 
