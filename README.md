@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-17 13:39:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[祖传无广告知乎V5.22.3可正常登录查看热榜和推荐](https://v2fy.com/p/2021-12-16-zhihu-1639649697000/)
-
-[《树莓派4B家庭服务器搭建指南》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
-
-[《树莓派4B家庭服务器搭建指南》第十期：在树莓派部署TiddlyWiki完成读写权限分离，开放到公网，建立自己的个人知识库](https://v2fy.com/p/2021-11-27-wiki-1637997854000/)
-
-[任天堂的Switch与苹果的iPhone，哪个更环保？](https://fangyuanxiaozhan.com/p/2021-12-15-19-22-25-switch/)
-
-[极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
-
-[高房价，躺平，超级病毒，巨人安乐死计划](https://fangyuanxiaozhan.com/p/2021-11-24-23-15-12-shenzhen/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-17 14:27:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
