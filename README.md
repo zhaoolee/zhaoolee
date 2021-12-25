@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-26 05:40:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[《树莓派4B家庭服务器搭建指南》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
-
-[《树莓派4B家庭服务器搭建指南》第十二期：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
-
-[002 用React, Ant Design 重写Web端恒生交易日接口的图形化展示](https://v2fy.com/p/2021-12-19-react-antd-1639896341000/)
-
-[《误杀2》有的孩子是孩子，有的孩子不是普通孩子！](https://fangyuanxiaozhan.com/p/2021-12-18-13-47-19-wusha/)
-
-[任天堂的Switch与苹果的iPhone，哪个更环保？](https://fangyuanxiaozhan.com/p/2021-12-15-19-22-25-switch/)
-
-[极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-26 06:21:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
