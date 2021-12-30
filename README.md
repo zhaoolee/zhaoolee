@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-30 10:55:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2021-12-30 11:22:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[hades](https://v2fy.com/p/2021-12-30-hades-1640831520000/)
 
 [入坑Switch的7个理由~](https://v2fy.com/p/2021-12-30-switch-1640831292000/)
 
 [《树莓派4B家庭服务器搭建指南》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
-
-[《树莓派4B家庭服务器搭建指南》第十二期：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
 
 [《误杀2》有的孩子是孩子，有的孩子不是普通孩子！](https://fangyuanxiaozhan.com/p/2021-12-18-13-47-19-wusha/)
 
