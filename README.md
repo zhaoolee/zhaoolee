@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-07 18:26:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-07 18:46:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [《树莓派4B家庭服务器搭建指南》第十四期：使用树莓派4B搭建k8s集群](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
 
@@ -18,11 +18,11 @@
 
 [为Ubuntu 20.04 设置静态IP简明教程（和把大象装冰箱一样简单）](https://v2fy.com/p/2022-01-01-ip-1641016585000/)
 
+[塞尔达荒野之息为什么让人上瘾?](https://fangyuanxiaozhan.com/p/2022-01-07-16-47-05-breath_of_the_wild/)
+
 [《误杀2》有的孩子是孩子，有的孩子不是普通孩子！](https://fangyuanxiaozhan.com/p/2021-12-18-13-47-19-wusha/)
 
 [任天堂的Switch与苹果的iPhone，哪个更环保？](https://fangyuanxiaozhan.com/p/2021-12-15-19-22-25-switch/)
-
-[极客要读书，极客很辛苦](https://fangyuanxiaozhan.com/p/2021-11-24-23-22-52-geek/)
 
 ---end---
 
