@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-10 14:28:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-10 14:53:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
@@ -18,11 +18,11 @@
 
 [Hades是个好游戏, 也讲了好故事](https://v2fy.com/p/2022-01-02-hades-1641133054000/)
 
+[荒野之息神庙和盾反弹反的设计分析](https://fangyuanxiaozhan.com/p/2022-01-10-14-29-58-shenmiao/)
+
 [塞尔达荒野之息为什么让人上瘾?](https://fangyuanxiaozhan.com/p/2022-01-07-16-47-05-breath_of_the_wild/)
 
 [《误杀2》有的孩子是孩子，有的孩子不是普通孩子！](https://fangyuanxiaozhan.com/p/2021-12-18-13-47-19-wusha/)
-
-[任天堂的Switch与苹果的iPhone，哪个更环保？](https://fangyuanxiaozhan.com/p/2021-12-15-19-22-25-switch/)
 
 ---end---
 
