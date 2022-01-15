@@ -10,9 +10,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-15 16:27:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-15 16:48:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[2022-01-15-eradicating-ds-store-1642230514000](https://v2fy.com/p/2022-01-15-eradicating-ds-store-1642230514000/)
+[在macOS系统 Git排除.Ds_Store文件一劳永逸的配置方式](https://v2fy.com/p/2022-01-15-eradicating-ds-store-1642230514000/)
 
 [前端工程必备CSS重置代码](https://v2fy.com/p/2022-01-15-css-1642225628000/)
 
