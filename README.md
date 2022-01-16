@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-16 19:38:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-01-16 20:35:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [在macOS系统 Git排除.Ds_Store文件一劳永逸的配置方式](https://v2fy.com/p/2022-01-15-eradicating-ds-store-1642230514000/)
 
@@ -18,11 +18,11 @@
 
 [旷野之息海拉鲁摄影无损画质版](https://v2fy.com/p/2022-01-15-photo-breath-of-the-wild-1642225407000/)
 
+[好游戏是内容创作者瓶颈期的止痛药](https://fangyuanxiaozhan.com/p/2022-01-16-20-00-33-painkiller/)
+
 [荒野之息神庙和盾反弹反的设计分析](https://fangyuanxiaozhan.com/p/2022-01-10-14-29-58-shenmiao/)
 
 [塞尔达荒野之息为什么让人上瘾?](https://fangyuanxiaozhan.com/p/2022-01-07-16-47-05-breath_of_the_wild/)
-
-[《误杀2》有的孩子是孩子，有的孩子不是普通孩子！](https://fangyuanxiaozhan.com/p/2021-12-18-13-47-19-wusha/)
 
 ---end---
 
