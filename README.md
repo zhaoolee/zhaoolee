@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-04-07 10:57:31 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-04-07 11:35:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [GitHub与乌克兰人民和国际社会团结在一起，昨日留言：今天文章价值观难得正确了一回](https://v2fy.com/p/2022-03-06-github-1646558786000/)
 
@@ -18,11 +18,11 @@
 
 [春节宣传素材哪里来？2022年更新8个免版权高质量图片网站（含矢量插画网站推荐）春节将至，辞旧迎新~](https://v2fy.com/p/2022-01-23-image-1642927240000/)
 
+[想听歌的用户，没动力续费网易云音乐](https://fangyuanxiaozhan.com/p/2022-04-07-11-00-05-net-music/)
+
+[深圳深夜出租车司机老哥金句精选(2022年4月7日更新2号老哥)](https://fangyuanxiaozhan.com/p/2022-04-07-10-37-46-taxi-driver-of-shenzhen/)
+
 [长期隔离居家办公带来的问题](https://fangyuanxiaozhan.com/p/2022-03-27-16-00-23-home-office/)
-
-[拥有学习时间，只是幸运的偶然](https://fangyuanxiaozhan.com/p/2022-03-27-15-41-16-luck-learn/)
-
-[碎碎念, HR耍流氓, 人心就要亡](https://fangyuanxiaozhan.com/p/2022-03-27-15-38-29-hr/)
 
 ---end---
 
