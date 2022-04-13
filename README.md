@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-04-13 19:39:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-04-13 20:44:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [PicGo私有化图床插件](https://v2fy.com/p/2022-04-08-picgo-pi-1649395572000/)
 
@@ -18,11 +18,11 @@
 
 [097Tu_那年那兔那些事_BQB](https://v2fy.com/p/097tu_%e9%82%a3%e5%b9%b4%e9%82%a3%e5%85%94%e9%82%a3%e4%ba%9b%e4%ba%8b_bqb/)
 
+[疫情居家，游戏产业与就业](https://fangyuanxiaozhan.com/p/2022-04-13-20-07-19-game/)
+
 [电子游戏是第九艺术，PS5是艺术的载体](https://fangyuanxiaozhan.com/p/2022-04-10-17-52-00-ps5/)
 
 [想听歌的用户，没动力续费网易云音乐](https://fangyuanxiaozhan.com/p/2022-04-07-11-00-05-net-music/)
-
-[深圳深夜出租车司机老哥金句精选(2022年4月7日更新2号老哥)](https://fangyuanxiaozhan.com/p/2022-04-07-10-37-46-taxi-driver-of-shenzhen/)
 
 ---end---
 
