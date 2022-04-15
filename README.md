@@ -10,19 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-04-15 09:53:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-04-15 11:20:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Uninstall tool 3.6.0 授权版](https://v2fy.com/p/2022-04-15-uninstall-tool-1649991390000/)
 
 [PicGo私有化图床插件](https://v2fy.com/p/2022-04-08-picgo-pi-1649395572000/)
 
 [GitHub与乌克兰人民和国际社会团结在一起，昨日留言：今天文章价值观难得正确了一回](https://v2fy.com/p/2022-03-06-github-1646558786000/)
 
-[097Tu_那年那兔那些事_BQB](https://v2fy.com/p/097tu_%e9%82%a3%e5%b9%b4%e9%82%a3%e5%85%94%e9%82%a3%e4%ba%9b%e4%ba%8b_bqb/)
+[为了他们能够拥有人的权利人的快乐人的尊严](https://fangyuanxiaozhan.com/p/2022-04-15-10-37-20-man/)
 
 [疫情居家，游戏产业与就业](https://fangyuanxiaozhan.com/p/2022-04-13-20-07-19-game/)
 
 [电子游戏是第九艺术，PS5是艺术的载体](https://fangyuanxiaozhan.com/p/2022-04-10-17-52-00-ps5/)
-
-[想听歌的用户，没动力续费网易云音乐](https://fangyuanxiaozhan.com/p/2022-04-07-11-00-05-net-music/)
 
 ---end---
 
