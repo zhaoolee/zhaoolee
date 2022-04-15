@@ -46,21 +46,6 @@
 | [B站](https://space.bilibili.com/9116631)  | 目前LV5， 老二刺螈了！  |
 
 
-## zhaoolee自建的BBS站
-
-zhaoolee自建的BBS站免费注册，注册后可发帖，BBS内容完全开放给所有搜索引擎索引，不禁止外链，运营策略坚守在道德准线以上。
-
-[为什么要自建BBS站?](https://fangyuanxiaozhan.com/p/2021-06-22-18-08-34-bbs/)
-
-[BBS入口：https://bbs.v2fy.com/](https://bbs.v2fy.com/)
-
-| 已开通 | 入口  |
-| --- | --- |
-| 《Chrome插件英雄榜》版块 | [https://bbs.v2fy.com/c/chromeappheroes/](https://bbs.v2fy.com/c/chromeappheroes/)  |
-| 《中国人的表情包ChineseBQB》版块 | [https://bbs.v2fy.com/c/chinesebqb/](https://bbs.v2fy.com/c/chinesebqb/)  |
-| 《在线工具秘籍》版块 | [https://bbs.v2fy.com/c/onlinetoolsbook/](https://bbs.v2fy.com/c/onlinetoolsbook/)  |
-| 《方圆灵感导航》版块 | [https://bbs.v2fy.com/c/in/](https://bbs.v2fy.com/c/in/)  |
-| 《自建BBS站Discourse技术指导讨论区》版块 | [https://bbs.v2fy.com/c/discourse/](https://bbs.v2fy.com/c/discourse/)  |
 
 ## zhaoolee的任天堂（任地狱）好友编号
 
@@ -69,11 +54,6 @@ SW-2870-3050-7625
 ## zhaoolee的Telegram频道（主要讨论树莓派内网穿透，树莓派NAS, 树莓派下载机，树莓派网站）
 
 [https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
-
-## zhaoolee建的微信群
-
-[点击查看二维码](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
-
 
 
 ## zhaoolee建的企鹅群
