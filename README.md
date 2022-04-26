@@ -45,7 +45,9 @@
 | [公众号：0加1](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png)  |  0加1，防加班办公技能宝典，zhaoolee个人的日更的公众号 |
 | [B站](https://space.bilibili.com/9116631)  | 目前LV5， 老二刺螈了！  |
 
+## 加zhaoolee的Lobby好友
 
+[https://www.lobby.game/inviter-card?inviterCode=143f74fae1334bd996a47b919b30d684](https://www.lobby.game/inviter-card?inviterCode=143f74fae1334bd996a47b919b30d684)
 
 ## zhaoolee的任天堂（任地狱）好友编号
 
