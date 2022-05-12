@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-05-12 19:43:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-05-12 20:54:30 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
 
 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/)
 
 [Chrome插件英雄榜113《SVG Export》将SVG矢量图导出为任意尺寸的PNG图片](https://v2fy.com/p/113-svg-exprot-2022-05-05/)
-
-[开源免费软件推荐-独立调节mac OS运行App的音量](https://v2fy.com/p/2022-05-03-mac-bgm-1651559177000/)
 
 [微信,微博,知乎等社交内容平台开始显示IP属地, 想要保卫自己的网络发言权,还是得花点钱…](https://fangyuanxiaozhan.com/p/2022-05-01-10-16-02-ip/)
 
