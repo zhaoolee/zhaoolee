@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-06-15 10:11:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-06-15 11:49:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
 
@@ -18,11 +18,11 @@
 
 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/)
 
+[知乎，微博是现代人负能量之源](https://fangyuanxiaozhan.com/p/2022-06-15-11-39-00-zhihu-weibo/)
+
 [《无声告白》润物细无声的西方价值观渗透](https://fangyuanxiaozhan.com/p/2022-05-29-22-05-59-everythingnevertoldyou/)
 
 [微信,微博,知乎等社交内容平台开始显示IP属地, 想要保卫自己的网络发言权,还是得花点钱…](https://fangyuanxiaozhan.com/p/2022-05-01-10-16-02-ip/)
-
-[为了他们能够拥有人的权利人的快乐人的尊严](https://fangyuanxiaozhan.com/p/2022-04-15-10-37-20-man/)
 
 ---end---
 
