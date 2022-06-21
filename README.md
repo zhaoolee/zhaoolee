@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-06-21 10:05:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-06-21 11:46:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
 
@@ -18,11 +18,11 @@
 
 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/)
 
+[专家建议供过于求，天才作品极度匮乏](https://fangyuanxiaozhan.com/p/2022-06-21-11-23-06-genius-expert/)
+
 [优秀游戏有哪些特点? 来自手残党不客观的总结](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-59-super-game/)
 
 [小团队的产品才会小而美](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-06-prod-team/)
-
-[长期来看, 买断制实体光盘卡带，是最省钱的电子消费品](https://fangyuanxiaozhan.com/p/2022-06-19-21-59-35-game-card/)
 
 ---end---
 
