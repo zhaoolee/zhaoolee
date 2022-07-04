@@ -10,13 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-04 16:30:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
-
-[网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
-
-[想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-04 16:53:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [专家建议供过于求，天才作品极度匮乏](https://fangyuanxiaozhan.com/p/2022-06-21-11-23-06-genius-expert/)
 
