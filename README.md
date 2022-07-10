@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-10 17:41:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-10 18:24:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
@@ -18,11 +18,11 @@
 
 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
 
-[乐观主义又菜又爱玩，悲观主义拼了老命为了赢](https://fangyuanxiaozhan.com/p/2022-07-10-17-22-58-%e4%b9%90%e8%a7%82%e4%b8%bb%e4%b9%89%e5%8f%88%e8%8f%9c%e5%8f%88%e7%88%b1%e7%8e%a9%ef%bc%8c%e6%82%b2%e8%a7%82%e4%b8%bb%e4%b9%89%e6%8b%bc%e4%ba%86%e8%80%81%e5%91%bd%e4%b8%ba-2/)
-
-[乐观主义又菜又爱玩，悲观主义拼了老命为了赢](https://fangyuanxiaozhan.com/p/2022-07-10-17-22-58-%e4%b9%90%e8%a7%82%e4%b8%bb%e4%b9%89%e5%8f%88%e8%8f%9c%e5%8f%88%e7%88%b1%e7%8e%a9%ef%bc%8c%e6%82%b2%e8%a7%82%e4%b8%bb%e4%b9%89%e6%8b%bc%e4%ba%86%e8%80%81%e5%91%bd%e4%b8%ba%e4%ba%86/)
+[乐观主义又菜又爱玩，悲观主义拼了老命为了赢](https://fangyuanxiaozhan.com/p/2022-07-10-17-22-58-%e4%b9%90%e8%a7%82%e4%b8%bb%e4%b9%89%e5%8f%88%e8%8f%9c%e5%8f%88%e7%88%b1%e7%8e%a9/)
 
 [面试官应该给有潜力的面试者更多鼓励](https://fangyuanxiaozhan.com/p/2022-07-10-17-02-23-%e9%9d%a2%e8%af%95%e5%ae%98%e5%ba%94%e8%af%a5%e7%bb%99%e6%9c%89%e6%bd%9c%e5%8a%9b%e7%9a%84%e9%9d%a2%e8%af%95%e8%80%85%e6%9b%b4%e5%a4%9a%e9%bc%93%e5%8a%b1/)
+
+[个人如此渺小, 更要活在当下](https://fangyuanxiaozhan.com/p/2022-07-10-%e4%b8%aa%e4%ba%ba%e5%a6%82%e6%ad%a4%e6%b8%ba%e5%b0%8f%2c%20%e6%9b%b4%e8%a6%81%e6%b4%bb%e5%9c%a8%e5%bd%93%e4%b8%8b/)
 
 ---end---
 
