@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-10 13:40:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-10 14:27:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
@@ -18,11 +18,11 @@
 
 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
 
+[个人如此渺小, 更要活在当下](https://fangyuanxiaozhan.com/p/2022-07-10-%e4%b8%aa%e4%ba%ba%e5%a6%82%e6%ad%a4%e6%b8%ba%e5%b0%8f-%e6%9b%b4%e8%a6%81%e6%b4%bb%e5%9c%a8%e5%bd%93%e4%b8%8b/)
+
+[《无声告白》润物细无声的西方价值观渗透](https://fangyuanxiaozhan.com/p/2022-05-29-22-05-59-everythingnevertoldyou-2/)
+
 [专家建议供过于求，天才作品极度匮乏](https://fangyuanxiaozhan.com/p/2022-06-21-11-23-06-genius-expert/)
-
-[优秀游戏有哪些特点? 来自手残党不客观的总结](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-59-super-game/)
-
-[小团队的产品才会小而美](https://fangyuanxiaozhan.com/p/2022-06-19-22-06-06-prod-team/)
 
 ---end---
 
