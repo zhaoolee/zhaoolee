@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-17 18:24:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-17 18:43:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
@@ -18,7 +18,7 @@
 
 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
 
-[高难度内卷经济学，魂学家狂喜](https://fangyuanxiaozhan.com/p/2022-07-17-17-16-40-%e9%ab%98%e9%9a%be%e5%ba%a6%e5%86%85%e5%8d%b7%e7%bb%8f%e6%b5%8e%e5%ad%a6/)
+[魂学家狂喜, 高难度内卷经济学](https://fangyuanxiaozhan.com/p/2022-07-17-17-16-40-%e9%ab%98%e9%9a%be%e5%ba%a6%e5%86%85%e5%8d%b7%e7%bb%8f%e6%b5%8e%e5%ad%a6/)
 
 [程序员的真实生活](https://fangyuanxiaozhan.com/p/2022-07-15-23-10-50-%e7%a8%8b%e5%ba%8f%e5%91%98%e7%9a%84%e7%9c%9f%e5%ae%9e%e7%94%9f%e6%b4%bb/)
 
