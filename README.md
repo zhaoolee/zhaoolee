@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-18 22:43:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-18 23:37:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/)
 
 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
-
-[网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
 
 [HHKB蓝牙静音版体验](https://fangyuanxiaozhan.com/p/2022-07-17-19-07-28-hhkb%e8%93%9d%e7%89%99%e9%9d%99%e9%9f%b3%e7%89%88%e4%bd%93%e9%aa%8c/)
 
