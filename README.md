@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-23 23:24:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-07-23 23:45:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/)
 
@@ -18,11 +18,11 @@
 
 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
 
+[这就是XXX! 关于屏蔽敏感词的思考](https://fangyuanxiaozhan.com/p/2022-07-23-22-42-52-%e5%8a%a0%e5%af%86%e7%95%99%e8%a8%80/)
+
 [热爱生活，远离B乎](https://fangyuanxiaozhan.com/p/2022-07-21-00-04-48-b%e4%b9%8e/)
 
 [电子产品割韭菜套路](https://fangyuanxiaozhan.com/p/2022-07-18-23-28-22-%e7%94%b5%e5%ad%90%e4%ba%a7%e5%93%81%e5%89%b2%e9%9f%ad%e8%8f%9c%e5%a5%97%e8%b7%af/)
-
-[HHKB蓝牙静音版体验](https://fangyuanxiaozhan.com/p/2022-07-17-19-07-28-hhkb%e8%93%9d%e7%89%99%e9%9d%99%e9%9f%b3%e7%89%88%e4%bd%93%e9%aa%8c/)
 
 ---end---
 
