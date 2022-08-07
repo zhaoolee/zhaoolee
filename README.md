@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-08-07 19:39:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-08-07 20:39:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [用搜索Lite移除广告,优化安卓Color OS搜索体验](https://v2fy.com/p/2022-07-31-search-lite-1659257623000/)
 
@@ -18,11 +18,11 @@
 
 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/)
 
+[取消Apple Music 订阅的糟糕体验](https://fangyuanxiaozhan.com/p/2022-08-07-19-41-25-apple-music/)
+
 [《异度之刃3》上手体验其二：让玩家重返十八岁，基本有手就能玩](https://fangyuanxiaozhan.com/p/2022-08-04-19-54-39-%e7%ba%a6%e5%85%b0/)
 
 [《异度之刃3》上手体验其一：游戏是如何消磨玩家时间的？](https://fangyuanxiaozhan.com/p/2022-08-02-15-05-53-%e5%bc%82%e5%ba%a6%e4%b9%8b%e5%88%833/)
-
-[这就是XXX! 关于屏蔽敏感词的思考](https://fangyuanxiaozhan.com/p/2022-07-23-22-42-52-%e5%8a%a0%e5%af%86%e7%95%99%e8%a8%80/)
 
 ---end---
 
