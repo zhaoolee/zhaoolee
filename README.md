@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-15 15:49:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-15 16:35:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[分享一波个人博客页面实时生成二维码脚本](https://v2fy.com/p/2022-10-15-qr-code-1665819346000/)
 
 [如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 arm64 并通过iTerm ssh自动操作虚拟机](https://v2fy.com/p/2022-09-30-parallels-1664531254000/)
 
 [获取Windows商店app离线安装包](https://v2fy.com/p/2022-08-30-mic-1661837657000/)
-
-[用搜索Lite移除广告,优化安卓Color OS搜索体验](https://v2fy.com/p/2022-07-31-search-lite-1659257623000/)
 
 [安卓折叠屏手机为什么不好搞？](https://fangyuanxiaozhan.com/p/2022-10-13-19-46-57-%e5%ae%89%e5%8d%93%e6%8a%98%e5%8f%a0%e5%b1%8f%e6%89%8b%e6%9c%ba%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%a5%bd%e6%90%9e/)
 
