@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-19 22:58:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-19 23:35:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [098spyxfamily_间谍过家家_BQB](https://v2fy.com/p/098spyxfamily_%e9%97%b4%e8%b0%8d%e8%bf%87%e5%ae%b6%e5%ae%b6_bqb/)
 
@@ -18,11 +18,11 @@
 
 [如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 arm64 并通过iTerm ssh自动操作虚拟机](https://v2fy.com/p/2022-09-30-parallels-1664531254000/)
 
+[异度之刃百小时体验小结](https://fangyuanxiaozhan.com/p/2022-10-19-19-18-57-xb/)
+
 [安卓折叠屏手机为什么不好搞？](https://fangyuanxiaozhan.com/p/2022-10-13-19-46-57-%e5%ae%89%e5%8d%93%e6%8a%98%e5%8f%a0%e5%b1%8f%e6%89%8b%e6%9c%ba%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%a5%bd%e6%90%9e/)
 
 [深圳2022年10月份疫情有感](https://fangyuanxiaozhan.com/p/2022-10-13-12-45-29-%e6%b7%b1%e5%9c%b32022%e5%b9%b410%e6%9c%88%e4%bb%bd%e7%96%ab%e6%83%85%e6%9c%89%e6%84%9f/)
-
-[取消Apple Music 订阅的糟糕体验](https://fangyuanxiaozhan.com/p/2022-08-07-19-41-25-apple-music/)
 
 ---end---
 
