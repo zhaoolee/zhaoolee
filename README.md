@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-22 16:36:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-22 17:29:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://v2fy.com/p/116-exif-viewer-classic-2022-10-22/)
+
+[Chrome插件英雄榜115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://v2fy.com/p/115-linkclump-2022-10-22/)
 
 [098spyxfamily_间谍过家家_BQB](https://v2fy.com/p/098spyxfamily_%e9%97%b4%e8%b0%8d%e8%bf%87%e5%ae%b6%e5%ae%b6_bqb/)
-
-[分享一波个人博客页面实时生成二维码脚本](https://v2fy.com/p/2022-10-15-qr-code-1665819346000/)
-
-[如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 arm64 并通过iTerm ssh自动操作虚拟机](https://v2fy.com/p/2022-09-30-parallels-1664531254000/)
 
 [如何用MacBook的优秀屏幕随时玩1080P主机模式Switch](https://fangyuanxiaozhan.com/p/2022-10-20-19-53-29-ns-mac/)
 
