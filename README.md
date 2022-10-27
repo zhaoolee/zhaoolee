@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-27 19:42:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-10-27 20:56:05 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [099p5r_女神异闻录_BQB](https://v2fy.com/p/099p5r_%e5%a5%b3%e7%a5%9e%e5%bc%82%e9%97%bb%e5%bd%95_bqb/)
 
@@ -18,11 +18,11 @@
 
 [Chrome插件英雄榜115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://v2fy.com/p/115-linkclump-2022-10-22/)
 
+[在中国大陆，XGP对比Steam有什么优劣势?](https://fangyuanxiaozhan.com/p/2022-10-27-18-15-18-xgp/)
+
 [趁着10月24日「程序员节」还没变成「情人购物节」，聊聊开源精神](https://fangyuanxiaozhan.com/p/2022-10-24-18-10-07-1024/)
 
 [玩主机游戏需要学习，并不比学编程更简单](https://fangyuanxiaozhan.com/p/2022-10-23-23-45-42-game/)
-
-[如何用MacBook的优秀屏幕随时玩1080P主机模式Switch](https://fangyuanxiaozhan.com/p/2022-10-20-19-53-29-ns-mac/)
 
 ---end---
 
