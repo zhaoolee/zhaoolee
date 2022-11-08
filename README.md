@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-11-08 22:27:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-11-08 22:47:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/)
 
@@ -18,11 +18,11 @@
 
 [Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://v2fy.com/p/116-exif-viewer-classic-2022-10-22/)
 
+[人一生用几年时间学会讲话，但要用几十年时间学会不讲](https://fangyuanxiaozhan.com/p/2022-11-08-22-23-36-talk/)
+
 [言路](https://fangyuanxiaozhan.com/p/2022-10-30-15-49-42-road/)
 
 [在中国大陆，XGP对比Steam有什么优劣势?](https://fangyuanxiaozhan.com/p/2022-10-27-18-15-18-xgp/)
-
-[趁着10月24日「程序员节」还没变成「情人购物节」，聊聊开源精神](https://fangyuanxiaozhan.com/p/2022-10-24-18-10-07-1024/)
 
 ---end---
 
