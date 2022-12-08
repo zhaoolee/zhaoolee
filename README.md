@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-12-08 19:17:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-12-08 19:38:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/)
 
@@ -18,11 +18,11 @@
 
 [Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://v2fy.com/p/116-exif-viewer-classic-2022-10-22/)
 
+[年青人为什么会变成愤青](https://fangyuanxiaozhan.com/p/2022-12-08-19-06-38-young-people/)
+
 [软件开发随想录](https://fangyuanxiaozhan.com/p/2022-12-08-19-00-39-software-dev/)
 
 [程序员编程能力会自发地退化](https://fangyuanxiaozhan.com/p/2022-11-21-22-09-03-p/)
-
-[人一生用几年时间学会讲话，但要用几十年时间学会不讲](https://fangyuanxiaozhan.com/p/2022-11-08-22-23-36-talk/)
 
 ---end---
 
