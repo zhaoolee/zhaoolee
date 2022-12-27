@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-12-27 13:17:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2022-12-27 13:38:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/)
 
 [分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/)
 
 [折腾Transmission实现固定IP服务器BT做种全过程](https://v2fy.com/p/2022-12-25-bt-1671963832000/)
-
-[MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/)
 
 [年青人为什么会变成愤青](https://fangyuanxiaozhan.com/p/2022-12-08-19-06-38-young-people/)
 
