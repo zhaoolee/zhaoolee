@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-01-01 16:40:23 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-01-01 17:17:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/)
 
@@ -18,11 +18,11 @@
 
 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/)
 
+[玩最终幻想7重制版联想到一些编程趣事（持续更新…）](https://fangyuanxiaozhan.com/p/2023-01-01-16-32-47-game-final-fantasy/)
+
 [赚钱之外的爱好有什么用？](https://fangyuanxiaozhan.com/p/2022-12-08-19-34-54-hobby/)
 
 [2022年终总结](https://fangyuanxiaozhan.com/p/2022-12-31-12-18-02-2022-mark/)
-
-[年青人为什么会变成愤青](https://fangyuanxiaozhan.com/p/2022-12-08-19-06-38-young-people/)
 
 ---end---
 
