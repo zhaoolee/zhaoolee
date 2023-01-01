@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-01-01 15:38:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-01-01 16:24:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/)
 
 [杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://v2fy.com/p/2022-12-29-mount-bt-1672309849000/)
 
 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/)
-
-[分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/)
 
 [赚钱之外的爱好有什么用？](https://fangyuanxiaozhan.com/p/2022-12-08-19-34-54-hobby/)
 
