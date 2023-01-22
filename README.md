@@ -10,13 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-01-22 17:19:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[最终幻想7重制版PS5版通关体验（附游戏摄影图）](https://fangyuanxiaozhan.com/p/2023-01-08-13-50-22-ff7/)
-
-[玩最终幻想7重制版联想到一些编程趣事（持续更新…）](https://fangyuanxiaozhan.com/p/2023-01-01-16-32-47-game-final-fantasy/)
-
-[赚钱之外的爱好有什么用？](https://fangyuanxiaozhan.com/p/2022-12-08-19-34-54-hobby/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-01-22 17:40:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
