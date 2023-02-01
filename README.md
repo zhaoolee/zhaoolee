@@ -10,7 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-01 20:41:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-01 21:26:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[自建服务器远程游玩PS5不踩坑指南](https://v2fy.com/p/2023-01-02-ps5-frp-1672642919000/)
+
+[如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/)
+
+[杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://v2fy.com/p/2022-12-29-mount-bt-1672309849000/)
+
+[土地财政锁死了中国年轻人的未来,买房变租房,一念天地宽](https://fangyuanxiaozhan.com/p/2023-02-01-20-08-34-it/)
+
+[流浪地球2真是量大管饱](https://fangyuanxiaozhan.com/p/2023-02-01-20-04-07-update/)
+
+[最终幻想7重制版PS5版通关体验（附游戏摄影图）](https://fangyuanxiaozhan.com/p/2023-01-08-13-50-22-ff7/)
 
 ---end---
 
