@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-04 16:40:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-04 17:17:47 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [自建服务器远程游玩PS5不踩坑指南](https://v2fy.com/p/2023-01-02-ps5-frp-1672642919000/)
 
@@ -18,7 +18,7 @@
 
 [杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://v2fy.com/p/2022-12-29-mount-bt-1672309849000/)
 
-[2023-02-04-14-57-27-good-code](https://fangyuanxiaozhan.com/p/2023-02-04-14-57-27-good-code/)
+[编程小技巧:尽早汪汪汪的狗才是好狗;少用胶水;避免被僵尸吃掉脑子](https://fangyuanxiaozhan.com/p/2023-02-04-14-57-27-good-code/)
 
 [土地财政锁死了中国年轻人的未来,买房变租房,一念天地宽](https://fangyuanxiaozhan.com/p/2023-02-01-20-08-34-it/)
 
