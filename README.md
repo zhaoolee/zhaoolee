@@ -10,13 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-08 09:47:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[编程小技巧:尽早汪汪汪的狗才是好狗;少用胶水;避免被僵尸吃掉脑子](https://fangyuanxiaozhan.com/p/2023-02-04-14-57-27-good-code/)
-
-[土地财政锁死了中国年轻人的未来,买房变租房,一念天地宽](https://fangyuanxiaozhan.com/p/2023-02-01-20-08-34-it/)
-
-[流浪地球2真是量大管饱](https://fangyuanxiaozhan.com/p/2023-02-01-20-04-07-update/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-08 10:57:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
