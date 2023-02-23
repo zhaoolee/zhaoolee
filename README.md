@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-23 12:43:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[分享《女神异闻录5皇家版》Switch版一些有趣的截图](https://v2fy.com/p/2023-02-11-p5r-images-1676126519000/)
-
-[自建服务器远程游玩PS5不踩坑指南](https://v2fy.com/p/2023-01-02-ps5-frp-1672642919000/)
-
-[如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/)
-
-[ChatGPT是一个理解自然语言的工具箱](https://fangyuanxiaozhan.com/p/2023-02-12-11-51-20-chatgpt-tools/)
-
-[zhaoole推荐值得玩的主机游戏](https://fangyuanxiaozhan.com/p/2023-02-12-11-23-42-game/)
-
-[编程小技巧:尽早汪汪汪的狗才是好狗;少用胶水;避免被僵尸吃掉脑子](https://fangyuanxiaozhan.com/p/2023-02-04-14-57-27-good-code/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-02-23 13:22:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
