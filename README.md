@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-01 15:38:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-01 16:27:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[通过新加坡阿里云访问ChatGPT](https://v2fy.com/p/2023-03-01-v2ray-1677654246000/)
 
 [2023年如何用中国号码注册Telegram](https://v2fy.com/p/2023-02-26-telegram-cn-1677400621000/)
 
 [开源项目在线将v2ray配置转换为Glados配置文件](https://v2fy.com/p/2023-02-26-v2ray-to-clash-1677393325000/)
-
-[分享《女神异闻录5皇家版》Switch版一些有趣的截图](https://v2fy.com/p/2023-02-11-p5r-images-1676126519000/)
 
 [建议Apple推出新表带：你大爷永远是你大爷！公园唱歌老大爷才是Apple Watch的核心用户](https://fangyuanxiaozhan.com/p/2023-02-23-12-51-18-apple-watch/)
 
