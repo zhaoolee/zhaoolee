@@ -10,13 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-13 17:43:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[建议Apple推出新表带：你大爷永远是你大爷！公园唱歌老大爷才是Apple Watch的核心用户](https://fangyuanxiaozhan.com/p/2023-02-23-12-51-18-apple-watch/)
-
-[独立博客永不为奴](https://fangyuanxiaozhan.com/p/2023-02-23-12-30-38-blog/)
-
-[ChatGPT是一个理解自然语言的工具箱](https://fangyuanxiaozhan.com/p/2023-02-12-11-51-20-chatgpt-tools/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-13 18:24:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
