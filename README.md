@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-16 15:38:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-16 16:25:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [实用笔记:解决Google Pixel 连接Wifi后网络不受信任的问题](https://v2fy.com/p/2023-03-15-google-pixel-cn-1678863601000/)
 
@@ -18,11 +18,11 @@
 
 [2023年如何用中国号码注册Telegram](https://v2fy.com/p/2023-02-26-telegram-cn-1677400621000/)
 
+[摄影天然适合程序员](https://fangyuanxiaozhan.com/p/2023-03-16-16-11-43-programmer-photography/)
+
+[我为什么喜欢用锤子便签](https://fangyuanxiaozhan.com/p/2023-03-16-16-04-56-smartisan-notes/)
+
 [建议Apple推出新表带：你大爷永远是你大爷！公园唱歌老大爷才是Apple Watch的核心用户](https://fangyuanxiaozhan.com/p/2023-02-23-12-51-18-apple-watch/)
-
-[独立博客永不为奴](https://fangyuanxiaozhan.com/p/2023-02-23-12-30-38-blog/)
-
-[ChatGPT是一个理解自然语言的工具箱](https://fangyuanxiaozhan.com/p/2023-02-12-11-51-20-chatgpt-tools/)
 
 ---end---
 
