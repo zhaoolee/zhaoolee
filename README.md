@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-18 15:38:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-18 16:23:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [101ChainsawMan_电锯人_BQB](https://v2fy.com/p/101chainsawman_%e7%94%b5%e9%94%af%e4%ba%ba_bqb/)
 
@@ -18,11 +18,11 @@
 
 [实用笔记:解决Google Pixel 连接Wifi后网络不受信任的问题](https://v2fy.com/p/2023-03-15-google-pixel-cn-1678863601000/)
 
+[博客比书籍发布内容更快,而且是免费的!](https://fangyuanxiaozhan.com/p/2023-03-18-15-27-38-read-book/)
+
 [程序员学哪一门语言更不容易失业](https://fangyuanxiaozhan.com/p/2023-03-16-16-24-25-js/)
 
 [摄影天然适合程序员](https://fangyuanxiaozhan.com/p/2023-03-16-16-11-43-programmer-photography/)
-
-[我为什么喜欢用锤子便签](https://fangyuanxiaozhan.com/p/2023-03-16-16-04-56-smartisan-notes/)
 
 ---end---
 
