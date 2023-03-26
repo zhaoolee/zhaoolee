@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-26 14:39:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-03-26 15:16:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何通过iPhone直接获取小红书无水印图片（网易云音乐，微信，即刻，Keep，Jump等热门App均适用）](https://v2fy.com/p/2023-03-21-xiaohongshu-1679368718000/)
 
@@ -18,11 +18,11 @@
 
 [100TheGegenerate_不良人_BQB](https://v2fy.com/p/100thegegenerate_%e4%b8%8d%e8%89%af%e4%ba%ba_bqb/)
 
+[求和!李姐万岁!用ChatGPT写GitBook布局锤子便签配色的WordPress主题](https://fangyuanxiaozhan.com/p/2023-03-26-13-04-25-gitbook-for-wordpress/)
+
 [在独立域名持续创作博客，是最简单的长线投资](https://fangyuanxiaozhan.com/p/2023-03-18-15-27-38-read-book/)
 
 [程序员学哪一门语言更不容易失业](https://fangyuanxiaozhan.com/p/2023-03-16-16-24-25-js/)
-
-[摄影天然适合程序员](https://fangyuanxiaozhan.com/p/2023-03-16-16-11-43-programmer-photography/)
 
 ---end---
 
