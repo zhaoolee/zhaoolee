@@ -39,7 +39,7 @@
 | [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) |  🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ |
 | [嘎！RSS](https://github.com/zhaoolee/garss)  |  为打破信息茧房而生，基于Github Actions 的零成本RSS内容自动化收集工具, 也是一个舆情监控工具  |
 | [用Hexo的方式管理WordPress](https://github.com/zhaoolee/WordPressXMLRPCTools)  | 使用Github Actions自动更新文章到WordPress  |
-| [求和!李姐万岁! GitBook For WordPress](https://github.com/zhaoolee/WordPressXMLRPCTools)  | 一个GitBook布局，锤子便签配色风格的WordPress主题  |
+| [求和! 李姐万岁! GitBook For WordPress](https://github.com/zhaoolee/gitbook-for-wordpress)  | 一个GitBook布局，锤子便签配色风格的WordPress主题  |
 | [Typora私有化图床上传工具](https://github.com/zhaoolee/EasyTypora)  |  zhaoolee为Typora定制一个私有化图床上传工具（含私有化图床搭建方案) |
 | [Github的README.md图片替换工具](https://github.com/zhaoolee/replace_readme_md_image) |  将Github仓库README.md中的图片保存到仓库，并自动替换为Github图片链接  |
 | [zhaoolee的简书博客](https://www.jianshu.com/u/c5d047065c42) | 简书平台早晚要凉 |
