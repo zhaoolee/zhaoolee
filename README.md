@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-04-01 16:38:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-04-01 17:16:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [女神异闻录5 开源在线怪盗信生成工具](https://v2fy.com/p/2023-03-27-p5r-create-1679900793000/)
 
@@ -18,11 +18,11 @@
 
 [101ChainsawMan_电锯人_BQB](https://v2fy.com/p/101chainsawman_%e7%94%b5%e9%94%af%e4%ba%ba_bqb/)
 
+[一个优秀博客的决定因素](https://fangyuanxiaozhan.com/p/2023-04-01-14-33-49-blog-cloud/)
+
 [GitBook锤子便签风格WordPress主题目录设计思想](https://fangyuanxiaozhan.com/p/2023-03-30-19-20-51-gitbook-wordpress/)
 
 [阳光开朗孔乙己](https://fangyuanxiaozhan.com/p/2023-03-26-21-36-56-kongyiji/)
-
-[求和!李姐万岁!用ChatGPT写GitBook布局锤子便签配色的WordPress主题](https://fangyuanxiaozhan.com/p/2023-03-26-13-04-25-gitbook-for-wordpress/)
 
 ---end---
 
