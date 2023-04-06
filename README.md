@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-04-06 19:38:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-04-06 20:34:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[How to buy virtual machines $2.5 in valtr](https://v2fy.com/p/2023-04-06-vultr-two-point-five-dollars-1680782308000/)
 
 [女神异闻录5 开源在线怪盗信生成工具](https://v2fy.com/p/2023-03-27-p5r-create-1679900793000/)
 
 [如何通过iPhone直接获取小红书无水印图片（网易云音乐，微信，即刻，Keep，Jump等热门App均适用）](https://v2fy.com/p/2023-03-21-xiaohongshu-1679368718000/)
-
-[101ChainsawMan_电锯人_BQB](https://v2fy.com/p/101chainsawman_%e7%94%b5%e9%94%af%e4%ba%ba_bqb/)
 
 [《求和！李姐万岁！》小更新，支持原生菜单显示](https://fangyuanxiaozhan.com/p/2023-04-05-16-30-09-gitbook-theme-menu/)
 
