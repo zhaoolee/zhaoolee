@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-04-20 14:40:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-04-20 15:17:00 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[如何清除微信广告？澳门电话卡申请遇到的坑，以及解决方案，你可知macao不是我真姓](https://v2fy.com/p/2023-04-20-macao-1681961212000/)
 
 [自建VPS独享IP被ChatGPT封禁怎么办？ChatGPT会员不如买Token（某好友:谁TM用ChatGPT Plus! ChatGPT Api永生!）](https://v2fy.com/p/2023-04-18-chatgpt-dev-1681812847000/)
 
 [How to buy virtual machines $2.5 in valtr](https://v2fy.com/p/2023-04-06-vultr-two-point-five-dollars-1680782308000/)
-
-[女神异闻录5 开源在线怪盗信生成工具](https://v2fy.com/p/2023-03-27-p5r-create-1679900793000/)
 
 [关于经典纽约摄影学院教材的思考](https://fangyuanxiaozhan.com/p/2023-04-17-10-37-46-photography/)
 
