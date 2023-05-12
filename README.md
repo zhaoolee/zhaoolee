@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-05-12 18:38:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-05-12 19:14:17 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Chrome插件英雄榜118《Immersive Translate》沉浸式阅读英语的免费好工具，愉悦学习阅读英语文章](https://v2fy.com/p/118-immersive-translate-2023-05-12/)
 
 [Chrome插件英雄榜117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/)
 
 [如何清除微信广告？澳门电话卡申请遇到的坑，以及解决方案，你可知macao不是我真姓](https://v2fy.com/p/2023-04-20-macao-1681961212000/)
-
-[自建VPS独享IP被ChatGPT封禁怎么办？ChatGPT会员不如买Token（某好友:谁TM用ChatGPT Plus! ChatGPT Api永生!）](https://v2fy.com/p/2023-04-18-chatgpt-dev-1681812847000/)
 
 [科目二满分通关攻略](https://fangyuanxiaozhan.com/p/2023-05-09-19-27-46-road-test-part-2/)
 
