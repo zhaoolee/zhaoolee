@@ -10,9 +10,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-05-22 14:23:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-05-22 14:39:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[通过Apple Store订阅ChatGPT PLUS 攻略](https://v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
+[通过Apple Store购买礼品卡订阅ChatGPT PLUS细节攻略](https://v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
 
 [Chrome插件英雄榜118《Immersive Translate》沉浸式阅读英语的免费好工具，愉悦学习阅读英语文章](https://v2fy.com/p/118-immersive-translate-2023-05-12/)
 
