@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-02 07:38:51 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-02 09:52:19 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [通过Apple Store购买礼品卡订阅ChatGPT PLUS细节攻略](https://v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
 
@@ -18,11 +18,11 @@
 
 [Chrome插件英雄榜117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/)
 
+[用一个Gmail邮箱注册多个任天堂游戏区，以日本区账号为例](https://fangyuanxiaozhan.com/p/2023-06-02-07-26-11-switch/)
+
 [科目二满分通关攻略](https://fangyuanxiaozhan.com/p/2023-05-09-19-27-46-road-test-part-2/)
 
 [关于经典纽约摄影学院教材的思考](https://fangyuanxiaozhan.com/p/2023-04-17-10-37-46-photography/)
-
-[背单词确实能消除无用的烦恼](https://fangyuanxiaozhan.com/p/2023-04-13-19-40-40-life/)
 
 ---end---
 
