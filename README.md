@@ -10,7 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-08 23:38:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-09 00:23:11 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[通过Apple Store购买礼品卡订阅ChatGPT PLUS细节攻略](https://v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
+
+[Chrome插件英雄榜118《Immersive Translate》沉浸式阅读英语的免费好工具，愉悦学习阅读英语文章](https://v2fy.com/p/118-immersive-translate-2023-05-12/)
+
+[Chrome插件英雄榜117《ChatGPT HeartBeat》让ChatGPT Web服务保持连接，避免反复刷新ChatGPT Web版页面](https://v2fy.com/p/117-chatgpt-heartbeat-2023-04-21/)
+
+[暗黑四莉莉丝：躺平是他们的权利](https://fangyuanxiaozhan.com/p/2023-06-07-18-10-46-lilith/)
+
+[单机游戏的附加价值](https://fangyuanxiaozhan.com/p/2023-06-06-18-35-59-game/)
+
+[探索树莓派搭建家庭影院的收获](https://fangyuanxiaozhan.com/p/2023-05-28-17-25-36-jellyfin/)
 
 ---end---
 
