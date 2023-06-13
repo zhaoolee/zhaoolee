@@ -10,7 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-13 19:42:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-13 20:35:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《树莓派4B家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
+
+[《树莓派4B家庭服务器搭建指南》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
+
+[通过Apple Store购买礼品卡订阅ChatGPT PLUS细节攻略](https://v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
+
+[新版Windows XP 经典Bliss壁纸蓝天白云绿草,顺便推荐一波微软设计站](https://fangyuanxiaozhan.com/p/2023-06-12-22-30-38-windows-bliss/)
+
+[暗黑四莉莉丝：躺平是他们的权利](https://fangyuanxiaozhan.com/p/2023-06-07-18-10-46-lilith/)
+
+[单机游戏的附加价值](https://fangyuanxiaozhan.com/p/2023-06-06-18-35-59-game/)
 
 ---end---
 
