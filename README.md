@@ -10,7 +10,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-22 23:39:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-06-23 00:22:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《树莓派4B家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
+
+[《Stable Diffusion WebUI折腾实录》在Windows完成安装, 从社区下载热门模型，批量生成小姐姐图片](https://v2fy.com/p/2023-06-20-sd-1687246928000/)
+
+[《树莓派4B家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
+
+[新版Windows XP 经典Bliss壁纸蓝天白云绿草,顺便推荐一波微软设计站](https://fangyuanxiaozhan.com/p/2023-06-12-22-30-38-windows-bliss/)
+
+[暗黑四莉莉丝：躺平是他们的权利](https://fangyuanxiaozhan.com/p/2023-06-07-18-10-46-lilith/)
+
+[单机游戏的附加价值](https://fangyuanxiaozhan.com/p/2023-06-06-18-35-59-game/)
 
 ---end---
 
