@@ -9,9 +9,9 @@ build = "python main.py"
 [dev-packages]
 
 [packages]
-requests = "2.31.0"
-feedparser = "6.0.2"
-pytz = "2020.5"
+requests = "*"
+feedparser = "*"
+pytz = "*"
 
 [requires]
 python_version = "*"
