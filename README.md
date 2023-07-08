@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-08 22:31:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-08 22:46:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
@@ -18,11 +18,11 @@
 
 [《Stable Diffusion WebUI折腾实录》在Windows完成安装, 从社区下载热门模型，批量生成小姐姐图片](https://v2fy.com/p/2023-06-20-sd-1687246928000/)
 
+[2023年打开P4G的正确姿势](https://fangyuanxiaozhan.com/p/2023-07-08-22-02-27-p4g/)
+
 [频繁弹窗严重打断用户操作，越来越不把用户当人了](https://fangyuanxiaozhan.com/p/2023-07-03-10-30-21-coffee/)
 
 [网站运行在阿里云的成本](https://fangyuanxiaozhan.com/p/2023-07-02-12-20-15-aliyun/)
-
-[驾校出于利益不会讲的一些科目三套路，科目三首考挂科的一些经验](https://fangyuanxiaozhan.com/p/2023-06-30-14-06-12-car-3/)
 
 ---end---
 
