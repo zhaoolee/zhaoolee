@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-11 15:46:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-11 16:10:20 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
@@ -18,11 +18,11 @@
 
 [《Stable Diffusion WebUI折腾实录》在Windows完成安装, 从社区下载热门模型，批量生成小姐姐图片](https://v2fy.com/p/2023-06-20-sd-1687246928000/)
 
+[塞尔达王国之泪是个好游戏，但不适合所有人](https://fangyuanxiaozhan.com/p/2023-07-09-23-14-05-zelda/)
+
 [2023年打开P4G的正确姿势](https://fangyuanxiaozhan.com/p/2023-07-08-22-02-27-p4g/)
 
 [频繁弹窗严重打断用户操作，越来越不把用户当人了](https://fangyuanxiaozhan.com/p/2023-07-03-10-30-21-coffee/)
-
-[网站运行在阿里云的成本](https://fangyuanxiaozhan.com/p/2023-07-02-12-20-15-aliyun/)
 
 ---end---
 
