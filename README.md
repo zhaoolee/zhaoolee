@@ -10,19 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-13 23:31:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[在办公室如何固定IP，方便局域网内设备查看效果，树莓派开启frp服务作网关辅助开发](https://v2fy.com/p/2023-07-11-pi-work-1689062118000/)
-
-[无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
-
-[《树莓派4B家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
-
-[卸载不必要App，保护自身情绪](https://fangyuanxiaozhan.com/p/2023-07-13-18-36-42-phone-app/)
-
-[韩国女性的困境《82年生的金智英》](https://fangyuanxiaozhan.com/p/2023-07-12-11-50-19-kim-ji-young-born-1982/)
-
-[塞尔达王国之泪是个好游戏，但不适合所有人](https://fangyuanxiaozhan.com/p/2023-07-09-23-14-05-zelda/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-13 23:47:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 ---end---
 
