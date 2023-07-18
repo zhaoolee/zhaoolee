@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-18 16:09:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-18 16:27:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[019《树莓派4B家庭服务器搭建指南》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示中文歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
 
 [在办公室如何固定IP，方便局域网内设备查看效果，树莓派开启frp服务作网关辅助开发](https://v2fy.com/p/2023-07-11-pi-work-1689062118000/)
 
 [无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
-
-[《树莓派4B家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
 
 [王国之泪：所有的勇士，都能被称为林克](https://fangyuanxiaozhan.com/p/2023-07-16-17-20-57-link/)
 
