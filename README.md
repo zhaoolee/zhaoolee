@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-28 13:46:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-07-28 14:08:39 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [分享一款刚从某多多购买的经典macOS清理软件](https://v2fy.com/p/2023-07-25-clean-mac-1690280516000/)
 
@@ -18,11 +18,11 @@
 
 [在办公室如何固定IP，方便局域网内设备查看效果，树莓派开启frp服务作网关辅助开发](https://v2fy.com/p/2023-07-11-pi-work-1689062118000/)
 
+[个人网站服务器询价的经历分享，我的网站新服务器升级到10MB带宽啦](https://fangyuanxiaozhan.com/p/2023-07-28-13-11-46-vps-change/)
+
 [摄影是减法，分享玩王国之泪过程中一些不错的画面](https://fangyuanxiaozhan.com/p/2023-07-25-18-09-46-photo/)
 
 [王国之泪：所有的勇士，都能被称为林克](https://fangyuanxiaozhan.com/p/2023-07-16-17-20-57-link/)
-
-[王国之泪：万物皆可通融，通融也是游戏性](https://fangyuanxiaozhan.com/p/2023-07-14-10-39-43-game-design/)
 
 ---end---
 
