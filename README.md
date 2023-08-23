@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-23 15:05:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-23 15:18:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [在安卓安装termux，实现电脑ssh登录并配置oh my zsh](https://v2fy.com/p/2023-08-21-frp-termux-1692581460000/)
 
@@ -18,11 +18,11 @@
 
 [让Linux融入生活! 家用服务器折腾指南《树莓派不吃灰》系列文章更新满20篇！](https://v2fy.com/p/2023-08-19-pi-1692429742000/)
 
+[当你不知道写什么的时候，就写如何写博客，如何搭建博客](https://fangyuanxiaozhan.com/p/2023-08-23-14-37-16-blog/)
+
 [与多域名ICP备案流程的爱恨情愁（激情对射）后续](https://fangyuanxiaozhan.com/p/2023-08-15-12-05-06-icp/)
 
 [方圆小站备案进行时…](https://fangyuanxiaozhan.com/p/2023-08-06-19-30-57-sg/)
-
-[个人网站服务器询价的经历分享，我的网站新服务器升级到10MB带宽啦](https://fangyuanxiaozhan.com/p/2023-07-28-13-11-46-vps-change/)
 
 ---end---
 
