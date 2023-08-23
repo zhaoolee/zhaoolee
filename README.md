@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-23 19:31:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-23 19:46:41 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[V2方圆备案完成](https://v2fy.com/p/2023-08-23-restore-1692790471000/)
 
 [在安卓安装termux，实现电脑ssh登录并配置oh my zsh](https://v2fy.com/p/2023-08-21-frp-termux-1692581460000/)
 
 [网盘传文件限速严重，来试试ssh内网穿透创建的公网到本地http服务器吧](https://v2fy.com/p/2023-08-20-sshd-port-forwarding-1692501226000/)
-
-[让Linux融入生活! 家用服务器折腾指南《树莓派不吃灰》系列文章更新满20篇！](https://v2fy.com/p/2023-08-19-pi-1692429742000/)
 
 [当你不知道写什么的时候，就写如何写博客，如何搭建博客](https://fangyuanxiaozhan.com/p/2023-08-23-14-37-16-blog/)
 
