@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-24 14:08:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-24 14:25:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [V2方圆备案完成](https://v2fy.com/p/2023-08-23-restore-1692790471000/)
 
@@ -22,7 +22,7 @@
 
 [与多域名ICP备案流程的爱恨情愁（激情对射）后续](https://fangyuanxiaozhan.com/p/2023-08-15-12-05-06-icp/)
 
-[方圆小站备案进行时…](https://fangyuanxiaozhan.com/p/2023-08-06-19-30-57-sg/)
+[方圆小站重新备案完成](https://fangyuanxiaozhan.com/p/2023-08-06-19-30-57-sg/)
 
 ---end---
 
