@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-25 19:46:29 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-08-25 20:10:57 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [V2方圆备案完成](https://v2fy.com/p/2023-08-23-restore-1692790471000/)
 
@@ -18,11 +18,11 @@
 
 [网盘传文件限速严重，来试试ssh内网穿透创建的公网到本地http服务器吧](https://v2fy.com/p/2023-08-20-sshd-port-forwarding-1692501226000/)
 
+[禁止熬夜就是最好的投资理财](https://fangyuanxiaozhan.com/p/2023-08-25-17-37-57-healthy/)
+
 [当你不知道写什么的时候，就写如何写博客，如何搭建博客](https://fangyuanxiaozhan.com/p/2023-08-23-14-37-16-blog/)
 
 [与多域名ICP备案流程的爱恨情愁（激情对射）后续](https://fangyuanxiaozhan.com/p/2023-08-15-12-05-06-icp/)
-
-[方圆小站重新备案完成](https://fangyuanxiaozhan.com/p/2023-08-06-19-30-57-sg/)
 
 ---end---
 
