@@ -37,7 +37,7 @@ def main():
 
 
     
-    v2fy_info =  get_link_info("https://v2fy.com/feed/", 3)
+    v2fy_info =  get_link_info("https://v2fy.com/feed/?allow=zhaoolee", 3)
     print(v2fy_info)
     fangyuanxiaozhan_info =  get_link_info("https://fangyuanxiaozhan.com/feed/", 3)
     print(fangyuanxiaozhan_info)
