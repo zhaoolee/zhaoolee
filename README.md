@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-08 08:29:13 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-08 09:31:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [备案后的个人站长如何在夹缝中求生存，V2方圆添加cloudflare,天翼云的每日网站违规电话终于停了](https://v2fy.com/p/2023-09-07-11-30-00-cloudflare/)
 
@@ -18,7 +18,7 @@
 
 [在安卓安装termux，实现电脑ssh登录并配置oh my zsh](https://v2fy.com/p/2023-08-21-frp-termux-1692581460000/)
 
-[特色环境下个人站长的应对策略](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
+[特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
 [Chrome插件英雄榜因为包含不良信息，国内已不可见](https://fangyuanxiaozhan.com/p/2023-08-31-16-25-59-rm-chromeappheroes/)
 
