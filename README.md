@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-09 20:34:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-09 20:52:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[从零建站之WordPress与Hexo建站如何选型](https://v2fy.com/p/kr-000107/)
 
 [《B站壁纸第二波》B站壁纸娘的432张壁纸](https://v2fy.com/p/kr-000010-bilibili-wall-paper/)
 
 [Ubuntu 22.04软件折腾笔记（2023年9月8日更新）](https://v2fy.com/p/2023-09-08-09-27-07-ubuntu-22-04/)
-
-[备案后的个人站长如何在夹缝中求生存，V2方圆添加cloudflare,天翼云的每日网站违规电话终于停了](https://v2fy.com/p/2023-09-07-11-30-00-cloudflare/)
 
 [特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
