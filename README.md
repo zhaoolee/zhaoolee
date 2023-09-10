@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-10 12:31:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-10 12:46:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《图标居中》Windows任务栏图标居中](https://v2fy.com/p/soft-000021-center/)
 
 [如何选择个人博客平台?](https://v2fy.com/p/kr-000053/)
 
 [从零建站之WordPress与Hexo建站如何选型](https://v2fy.com/p/kr-000107/)
-
-[Ubuntu 22.04软件折腾笔记（2023年9月8日更新）](https://v2fy.com/p/2023-09-08-09-27-07-ubuntu-22-04/)
 
 [特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
