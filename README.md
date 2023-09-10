@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-10 13:46:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-10 14:07:46 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《网站》8个月经营独立网站的经验分享](https://v2fy.com/p/kr-000009-wordpress/)
 
 [《B站壁纸第二波》B站壁纸娘的432张壁纸](https://v2fy.com/p/kr-000010-bilibili-wall-paper/)
 
 [《优秀软件》如何让Chrome效率提升1400%?](https://v2fy.com/p/soft-000001/)
-
-[《图标居中》Windows任务栏图标居中](https://v2fy.com/p/soft-000021-center/)
 
 [特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
