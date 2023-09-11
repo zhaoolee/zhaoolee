@@ -10,9 +10,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-11 13:31:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-11 13:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[提升数据库安全性小技巧，使用SSH配合开源DBeaver工具连接数据库](https://v2fy.com/p/2023-09-10-16-24-21-mysql-dbeaver-ssh/)
+[提升数据库安全小技巧，使用SSH配合开源DBeaver工具连接数据库](https://v2fy.com/p/2023-09-10-16-24-21-mysql-dbeaver-ssh/)
 
 [Ubuntu 22.04软件折腾笔记（2023年9月8日更新）](https://v2fy.com/p/2023-09-08-09-27-07-ubuntu-22-04/)
 
