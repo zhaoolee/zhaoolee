@@ -10,9 +10,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-13 10:46:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-13 11:06:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[《树莓派4B家庭服务器搭建指南》第二十一期：安装开源远程桌面服务rustdesk, 内网丝滑,外网流畅控制Windows,macOS,Linux设备](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [提升数据库安全小技巧，使用SSH配合开源DBeaver工具连接数据库](https://v2fy.com/p/2023-09-10-16-24-21-mysql-dbeaver-ssh/)
 
