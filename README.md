@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-16 16:46:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-16 17:04:48 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [内容出海，让ChatGPT将中文Markdown内容翻译为中英对照的格式](https://v2fy.com/p/2023-09-16-11-46-28-chatgpt-translate/)
 
 [一次rm引发的悲剧, 推荐使用trash-cli回收站二次确认后再删除数据](https://v2fy.com/p/2023-09-13-13-14-39-trash-put/)
 
-[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Raspberry Pi Home Server Building Guide》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
