@@ -10,13 +10,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-27 13:46:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-09-27 14:09:12 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[关于河北某地收缴程序员三年收入的看法](https://v2fy.com/p/2023-09-27-12-28-38-remote-work/)
 
 [Windows，macOS，Linux换行标识的前世今生，如何处理文本文件行尾的^M / The Past and Present of Line Break Symbols in Windows, macOS, Linux, How to Deal with ^M at the End of Text Files](https://v2fy.com/p/2023-09-24-11-48-05-crlf/)
 
 [内容出海，让ChatGPT将中文Markdown内容翻译为中英对照的格式](https://v2fy.com/p/2023-09-16-11-46-28-chatgpt-translate/)
-
-[一次rm引发的悲剧, 推荐使用trash-cli回收站二次确认后再删除数据](https://v2fy.com/p/2023-09-13-13-14-39-trash-put/)
 
 [特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
