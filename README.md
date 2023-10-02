@@ -10,7 +10,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-10-02 08:31:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-10-02 09:37:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何避免手抖关闭终端导致程序中断？如何保证ssh断开不丢失会话？降压小工具Tmux / How to prevent program interruption by accidentally closing the terminal? How to ensure that the ssh disconnection does not lose the session? Pressure-reducing tool Tmux](https://v2fy.com/p/2023-09-30-16-23-38-tmux/)
 
@@ -18,11 +18,11 @@
 
 [Windows，macOS，Linux换行标识的前世今生，如何处理文本文件行尾的^M / The Past and Present of Line Break Symbols in Windows, macOS, Linux, How to Deal with ^M at the End of Text Files](https://v2fy.com/p/2023-09-24-11-48-05-crlf/)
 
+[对自媒体一些不客观的看法](https://fangyuanxiaozhan.com/p/2023-10-02-07-38-28-self-media/)
+
 [特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
 [Chrome插件英雄榜因为包含不良信息，国内已不可见](https://fangyuanxiaozhan.com/p/2023-08-31-16-25-59-rm-chromeappheroes/)
-
-[禁止熬夜就是最好的投资理财](https://fangyuanxiaozhan.com/p/2023-08-25-17-37-57-healthy/)
 
 ---end---
 
