@@ -6,9 +6,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-10-18 17:46:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-10-18 18:07:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[《树莓派不吃灰》第二十二期：在树莓派搭建个人摄影站](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
+[《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
 [《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7×24小时做种，持续获取魔力值 / 《Use Pi》Issue 22 Building qBittorrent Web UI for PT site to seed 7×24 hours, continuously obtaining magic values](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
 
