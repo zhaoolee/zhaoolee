@@ -29,7 +29,7 @@
 | ---    | --- |
 | [V2方圆](https://v2fy.com)  | zhaoolee的资源网站，**挖掘稀缺资源** |
 | [方圆小站](https://fangyuanxiaozhan.com)  | zhaoolee的杂谈站 |
-| [zhaoolee摄影作品网站](https://photography.v2fy.com/)  | 现实世界与虚拟世界摄影的混合站，支持下载原图 |
+| [zhaoolee摄影作品网站](https://photography.v2fy.com/)  | 运行在树莓派的现实世界与虚拟世界摄影的混合站，支持下载原图 photography.v2fy.com 源码地址 https://github.com/zhaoolee/photography |
 | [Chrome插件英雄榜 ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本开源中文说明书, 让Chrome插件英雄们造福人类~ |
 | [中国人的表情包 ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ [ChinseBQB搜索表情包小工具体验地址](https://www.v2fy.com/asset/0i/ChineseBQB/) |
 | [方圆灵感导航 in](https://github.com/zhaoolee/in) | 带宝藏网站使用说明书的开源导航 [方圆灵感导航体验地址](https://www.v2fy.com/in/) |
