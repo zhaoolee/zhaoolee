@@ -45,9 +45,6 @@
 | [B站](https://space.bilibili.com/9116631)  | 目前LV6， 老二刺螈了！🐒  |
 
 
-## zhaoolee的任天堂（任地狱）好友编号
-
-SW-2870-3050-7625
 
 ## zhaoolee的Telegram频道（主要讨论树莓派内网穿透，树莓派NAS, 树莓派下载机，树莓派网站）
 
