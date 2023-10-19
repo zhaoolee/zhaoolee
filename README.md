@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-10-19 11:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-10-19 12:07:45 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[如何处理Github Markdown文档图片缓存显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
 
 [《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站 / 《Use Pi》Issue 23  Building a Personal Photography Website on Raspberry Pi](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
 [《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7×24小时做种，持续获取魔力值 / 《Use Pi》Issue 22 Building qBittorrent Web UI for PT site to seed 7×24 hours, continuously obtaining magic values](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
-
-[如何避免手抖关闭终端导致程序中断？如何保证ssh断开不丢失会话？降压小工具Tmux / How to prevent program interruption by accidentally closing the terminal? How to ensure that the ssh disconnection does not lose the session? Pressure-reducing tool Tmux](https://v2fy.com/p/2023-09-30-16-23-38-tmux/)
 
 [对自媒体一些不客观的看法](https://fangyuanxiaozhan.com/p/2023-10-02-07-38-28-self-media/)
 
