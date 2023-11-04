@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-04 11:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-04 12:07:34 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [102Friends_老友记⛲️_BQB](https://v2fy.com/p/102friends_%e8%80%81%e5%8f%8b%e8%ae%b0%e2%9b%b2%ef%b8%8f_bqb/)
 
@@ -14,7 +14,7 @@
 
 [《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站 / 《Use Pi》Issue 23  Building a Personal Photography Website on Raspberry Pi](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
-[Brotato 土豆兄弟, 人类的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
+[Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
 [对自媒体一些不客观的看法](https://fangyuanxiaozhan.com/p/2023-10-02-07-38-28-self-media/)
 
