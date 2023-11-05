@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-05 14:46:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-05 15:05:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[024Programmer_程序员👨‍💻‍BQB](https://v2fy.com/p/024programmer_%e7%a8%8b%e5%ba%8f%e5%91%98%f0%9f%91%a8%f0%9f%92%bbbqb-2/)
+
+[020TATAN🤷‍♂️BQB](https://v2fy.com/p/020tatan%f0%9f%a4%b7%e2%99%82%ef%b8%8fbqb-2/)
 
 [102Friends_老友记⛲️_BQB](https://v2fy.com/p/102friends_%e8%80%81%e5%8f%8b%e8%ae%b0%e2%9b%b2%ef%b8%8f_bqb/)
-
-[如何处理Github Markdown文档图片缓存显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
-
-[《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站 / 《Use Pi》Issue 23  Building a Personal Photography Website on Raspberry Pi](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
 [Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
