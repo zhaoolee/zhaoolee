@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-10 10:46:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-10 11:06:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[103EmpressesInThePalace_甄嬛传💃_BQB](https://v2fy.com/p/103empressesinthepalace_%e7%94%84%e5%ac%9b%e4%bc%a0%f0%9f%92%83_bqb/)
+[简书留下的乐子](https://v2fy.com/p/2023-10-22-13-42-16-jianshu/)
 
-[102Friends_老友记⛲️_BQB](https://v2fy.com/p/102friends_%e8%80%81%e5%8f%8b%e8%ae%b0%e2%9b%b2%ef%b8%8f_bqb/)
+[mkvtoolnix](https://v2fy.com/p/2023-10-29-15-51-19-mkvtoolnix/)
 
-[如何处理Github Markdown文档图片缓存显示残缺的问题](https://v2fy.com/p/2023-10-19-11-07-06-purge/)
+[jellyfin支持中英对照双字幕](https://v2fy.com/p/2023-10-24-18-31-41-jellyfin-subtitle/)
 
 ---end---
 
