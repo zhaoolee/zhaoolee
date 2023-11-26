@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-26 17:46:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-11-26 18:06:18 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[碎片化时间多背背单词，将《程序员工作中常见的英语词汇》转换为csv，xlsx单文件，并导入摸鱼单词](https://v2fy.com/p/2023-11-26-17-47-59-moyu/)
 
 [简书留下的乐子](https://v2fy.com/p/2023-10-22-13-42-16-jianshu/)
 
 [mkvtoolnix](https://v2fy.com/p/2023-10-29-15-51-19-mkvtoolnix/)
-
-[jellyfin支持中英对照双字幕](https://v2fy.com/p/2023-10-24-18-31-41-jellyfin-subtitle/)
 
 ---end---
 
