@@ -6,13 +6,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-04 22:48:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-04 23:07:26 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [付费版的Plex比免费开源的Jellyfin好用在哪儿？](https://v2fy.com/p/2023-12-04-20-27-09-plex/)
 
 [碎片化时间多背背单词，将《程序员工作中常见的英语词汇》转换为csv，xlsx单文件，并导入摸鱼单词](https://v2fy.com/p/2023-11-26-17-47-59-moyu/)
 
 [简书留下的乐子](https://v2fy.com/p/2023-10-22-13-42-16-jianshu/)
+
+[Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
+
+[对自媒体一些不客观的看法](https://fangyuanxiaozhan.com/p/2023-10-02-07-38-28-self-media/)
+
+[特色环境下个人站长的应对策略（2023年9月8日更新）](https://fangyuanxiaozhan.com/p/2023-09-02-11-28-33-zhaoolee_com/)
 
 ---end---
 
