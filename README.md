@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-17 16:08:21 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-17 16:25:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [《树莓派不吃灰》第二十四期：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
 
@@ -14,7 +14,7 @@
 
 [碎片化时间多背背单词，将《程序员工作中常见的英语词汇》转换为csv，xlsx单文件，并导入摸鱼单词](https://v2fy.com/p/2023-11-26-17-47-59-moyu/)
 
-[《Brotato土豆兄弟》Steam全成就通关总结贴](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
+[《Brotato土豆兄弟》Steam全成就通关总结](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
 
 [Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
