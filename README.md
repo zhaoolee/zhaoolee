@@ -6,19 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-20 15:46:22 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-20 16:26:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [macOS无法联网怎么办？Apple官方推荐的小技巧（配GIF图）](https://v2fy.com/p/2023-12-18-18-19-39-macos-network/)
 
 [《树莓派不吃灰》第二十四期：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
 
 [付费版的Plex比免费开源的Jellyfin好用在哪儿？](https://v2fy.com/p/2023-12-04-20-27-09-plex/)
-
-[Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
-
-[《Brotato土豆兄弟》Steam全成就通关总结](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
-
-[Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
 ---end---
 
