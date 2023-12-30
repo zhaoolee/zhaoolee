@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-30 18:06:24 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2023-12-30 18:25:52 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何拯救macOS的Chrome在一些特定Wifi下访问url频繁报错ERR_NETWORK_CHANGED Your connection was interrupted ,但刷一下网页又能访问的情况](https://v2fy.com/p/2023-12-29-15-21-46-saving-macos-network/)
 
