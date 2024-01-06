@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-01-06 17:31:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-01-06 17:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《树莓派不吃灰》第二十五期：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
 
 [2024年macOS依然实用的一些功能和优质软件](https://v2fy.com/p/2024-01-04-17-42-06-mac-2024/)
 
 [年度总结与新年计划](https://v2fy.com/p/2024-01-01-13-32-52-newyearsummaryandplan/)
-
-[如何拯救macOS的Chrome在一些特定Wifi下访问url频繁报错ERR_NETWORK_CHANGED Your connection was interrupted ,但刷一下网页又能访问的情况](https://v2fy.com/p/2023-12-29-15-21-46-saving-macos-network/)
 
 [Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
 
