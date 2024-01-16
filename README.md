@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-01-16 19:05:50 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-01-16 19:19:27 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[为了深入体验hades, 我写了个读取hades所有NPC中英对照对话的开源程序](https://v2fy.com/p/2024-01-16-18-57-23-hades/)
 
 [《树莓派不吃灰》第二十五期：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
 
 [2024年macOS依然实用的一些功能和优质软件(2024年1月7日更新)](https://v2fy.com/p/2024-01-04-17-42-06-mac-2024/)
-
-[年度总结与新年计划](https://v2fy.com/p/2024-01-01-13-32-52-newyearsummaryandplan/)
 
 [Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
 
