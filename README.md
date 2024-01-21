@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-01-21 13:06:42 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-01-21 13:31:40 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[Spotube开源免费无广告的听歌工具，可听周杰伦等中文歌手](https://v2fy.com/p/2024-01-21-12-24-59-spotube/)
 
 [开源一个OpenAI ChatGPT批量将中文Markdown翻译为英文的工具](https://v2fy.com/p/2024-01-19-16-11-56-transmd/)
 
 [为了深入体验hades, 我写了个读取hades所有NPC中英对照对话的开源程序](https://v2fy.com/p/2024-01-16-18-57-23-hades/)
-
-[《树莓派不吃灰》第二十五期：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
 
 [Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
 
