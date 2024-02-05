@@ -6,7 +6,19 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-02-05 09:41:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-02-05 10:17:09 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/)
+
+[Spotube开源免费无广告的听歌工具，可听周杰伦等中文歌手](https://v2fy.com/p/2024-01-21-12-24-59-spotube/)
+
+[开源一个OpenAI ChatGPT批量将中文Markdown翻译为英文的工具](https://v2fy.com/p/2024-01-19-16-11-56-transmd/)
+
+[Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
+
+[《Brotato土豆兄弟》Steam全成就通关总结](https://fangyuanxiaozhan.com/p/2023-12-10-15-46-48-brotato/)
+
+[Brotato土豆兄弟, 游戏的本质是消消乐](https://fangyuanxiaozhan.com/p/2023-11-03-18-36-47-brotato/)
 
 ---end---
 
