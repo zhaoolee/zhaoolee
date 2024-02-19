@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-02-19 18:07:53 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-02-19 18:26:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/)
 
@@ -14,9 +14,9 @@
 
 [开源一个OpenAI ChatGPT批量将中文Markdown翻译为英文的工具](https://v2fy.com/p/2024-01-19-16-11-56-transmd/)
 
-[sora](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
+[Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
 
-[fitness](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
+[如果不能赚更多钱，那就锻炼身体，多活几年](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
 
 [Medium海外版理想化的简书](https://fangyuanxiaozhan.com/p/2023-12-20-12-22-57-medium/)
 
