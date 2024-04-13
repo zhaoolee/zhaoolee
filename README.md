@@ -6,13 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-13 21:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
-
-[《树莓派不吃灰》026：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/)
-
-[Spotube开源免费无广告的听歌工具，可听周杰伦等中文歌手](https://v2fy.com/p/2024-01-21-12-24-59-spotube/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-13 22:07:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
 
