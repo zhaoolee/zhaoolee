@@ -6,9 +6,9 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-25 18:46:33 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-25 19:06:37 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
-[Starbucks星巴克联网闭坑小妙招](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
+[Starbucks星巴克Wifi弹不出认证窗口怎么办？](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
 
 [《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
 
