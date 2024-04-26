@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-26 17:46:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-26 18:07:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[分享一些很生草的程序员面试流程](https://v2fy.com/p/2024-04-26-16-41-10-code/)
 
 [Starbucks星巴克Wifi弹不出认证窗口怎么办？](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
 
 [《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
-
-[《树莓派不吃灰》026：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/)
 
 [嘎! 2024年4月面试杂谈](https://fangyuanxiaozhan.com/p/2024-04-21-13-55-59-interview/)
 
