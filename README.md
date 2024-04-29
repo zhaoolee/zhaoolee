@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-29 21:46:28 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-04-29 22:07:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [2024年中国魂味程序员面试](https://v2fy.com/p/2024-04-26-16-41-10-code/)
 
@@ -14,11 +14,11 @@
 
 [《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
 
+[每天锻炼半小时，健康工作五十年](https://fangyuanxiaozhan.com/p/2024-04-29-20-08-16-boot/)
+
 [嘎! 2024年4月面试杂谈](https://fangyuanxiaozhan.com/p/2024-04-21-13-55-59-interview/)
 
 [Sora对于自媒体行业来说，简直就是特么神器](https://fangyuanxiaozhan.com/p/2024-02-19-14-31-02-sora/)
-
-[如果不能赚更多钱，那就锻炼身体，多活几年](https://fangyuanxiaozhan.com/p/2024-02-19-14-08-04-fitness/)
 
 ---end---
 
