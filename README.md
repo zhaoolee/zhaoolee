@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-05-01 16:47:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-05-01 17:08:08 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[在M系芯片的macOS上安装App Store无法直接安装的iOS app(以雅思哥为例) 并请管理员喝杯咖啡](https://v2fy.com/p/2024-05-01-15-38-43-ipa/)
 
 [2024年中国魂味程序员面试](https://v2fy.com/p/2024-04-26-16-41-10-code/)
 
 [Starbucks星巴克Wifi弹不出认证窗口怎么办？](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
-
-[《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
 
 [每天锻炼半小时，健康工作五十年](https://fangyuanxiaozhan.com/p/2024-04-29-20-08-16-boot/)
 
