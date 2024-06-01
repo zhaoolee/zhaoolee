@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-06-01 16:09:02 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-06-01 16:26:36 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[好物推荐，可以在星巴克wifi转wifi的openwrt开源双无线网卡路由器](https://v2fy.com/p/2024-06-01-14-57-18-openwrt/)
 
 [在M系芯片的macOS上安装App Store无法直接安装的iOS app(以雅思哥为例) 并请管理员喝杯咖啡](https://v2fy.com/p/2024-05-01-15-38-43-ipa/)
 
 [2024年中国魂味程序员面试](https://v2fy.com/p/2024-04-26-16-41-10-code/)
-
-[Starbucks星巴克Wifi弹不出认证窗口怎么办？](https://v2fy.com/p/2024-04-25-16-04-34-starbucks/)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
