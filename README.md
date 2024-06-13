@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-06-13 23:31:38 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-06-13 23:46:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[104 JensenHuang_黄仁勋 🧩_BQB](https://v2fy.com/p/104%20jensenhuang_%e9%bb%84%e4%bb%81%e5%8b%8b%20%f0%9f%a7%a9_bqb/)
 
 [《树莓派不吃灰》028：在树莓派搭建Gitlab并完美映射到公网](https://v2fy.com/p/2024-05-25-17-19-40-gitlab/)
 
 [好物推荐，可以在星巴克wifi转wifi的openwrt开源双无线网卡路由器](https://v2fy.com/p/2024-06-01-14-57-18-openwrt/)
-
-[在M系芯片的macOS上安装App Store无法直接安装的iOS app(以雅思哥为例) 并请管理员喝杯咖啡](https://v2fy.com/p/2024-05-01-15-38-43-ipa/)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
