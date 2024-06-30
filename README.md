@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-06-30 14:29:49 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-06-30 14:39:07 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[在命令行更灵活的代理工具proxychain4获取github代码](https://v2fy.com/p/2024-06-30-11-43-28-proxychain4/)
 
 [《树莓派不吃灰》029：在树莓派搭建Webdav, 通过命令行curl上传下载文件到树莓派](https://v2fy.com/p/2024-06-22-14-22-08-webdav/)
 
 [黑神话最佳合作伙伴，能不能白嫖黑悟空就看banana了！](https://v2fy.com/p/2024-06-19-12-25-41-banana/)
-
-[如何为局域网的Linux主机设置Docker拉取镜像走代理](https://v2fy.com/p/2024-06-16-10-23-44-docker-proxy/)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
