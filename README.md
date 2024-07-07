@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-07-07 12:46:43 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-07-07 13:09:59 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[解决微信读书和Apple Books导入epub电子书不显示图片的问题](https://v2fy.com/p/2024-07-07-12-03-58-read-epub/)
 
 [用Electron实现支持动态下发视频资源的类OBS推流解决方案](https://v2fy.com/p/2024-07-06-11-09-56-audio/)
 
 [ChatGPT-Next-Web本地创建镜像攻略](https://v2fy.com/p/2024-06-30-17-01-04-next-web-chatgpt/)
-
-[在命令行更灵活的代理工具proxychain4获取github代码](https://v2fy.com/p/2024-06-30-11-43-28-proxychain4/)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
