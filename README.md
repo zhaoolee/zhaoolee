@@ -6,19 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-08-28 16:46:15 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-08-28 17:03:35 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [在Ubuntu24.04安装PHP8.3加Nginx，创建WordPress开发环境](https://v2fy.com/p/2024-08-17-15-13-37-php8/)
 
 [折腾一加9R使用Xposed虚拟摄像头，有点不一样的安卓开发攻略](https://v2fy.com/p/2024-07-21-10-49-38-oneplus-9r/)
 
 [解决微信读书和Apple Books导入epub电子书不显示图片的问题](https://v2fy.com/p/2024-07-07-12-03-58-read-epub/)
-
-[如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
-
-[普通人有哪些副业可以赚钱？](https://fangyuanxiaozhan.com/p/2024-05-08-15-54-58-position/)
-
-[每天锻炼半小时，健康工作五十年](https://fangyuanxiaozhan.com/p/2024-04-29-20-08-16-boot/)
 
 ---end---
 
