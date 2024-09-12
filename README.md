@@ -6,13 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-12 18:45:56 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
-
-[如何三行命令完成git仓库搬家，完美镜像仓库](https://v2fy.com/p/2024-08-29-19-05-47-git-mirror/)
-
-[搭建地理信息数据库PostGIS](https://v2fy.com/p/2024-08-17-17-47-14-postgis/)
-
-[在Ubuntu24.04安装PHP8.3加Nginx，创建WordPress开发环境](https://v2fy.com/p/2024-08-17-15-13-37-php8/)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-12 19:01:58 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
