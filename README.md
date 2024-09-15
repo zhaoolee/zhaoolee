@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-15 19:01:16 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-15 19:18:06 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [如何三行命令完成git仓库搬家，完美镜像仓库](https://v2fy.com/p/2024-08-29-19-05-47-git-mirror/)
 
@@ -14,11 +14,11 @@
 
 [在Ubuntu24.04安装PHP8.3加Nginx，创建WordPress开发环境](https://v2fy.com/p/2024-08-17-15-13-37-php8/)
 
+[开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
+
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
 [普通人有哪些副业可以赚钱？](https://fangyuanxiaozhan.com/p/2024-05-08-15-54-58-position/)
-
-[每天锻炼半小时，健康工作五十年](https://fangyuanxiaozhan.com/p/2024-04-29-20-08-16-boot/)
 
 ---end---
 
