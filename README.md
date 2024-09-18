@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-18 09:28:10 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-18 09:59:32 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[在有固定IP的服务器上快速搭建gitlab-ce](https://v2fy.com/p/2024-08-31-13-11-03-gitlab-ce/)
+
+[使用PyEnv加Poetry管理Python版本以及依赖包](https://v2fy.com/p/2024-09-16-19-08-12-pyenv-poetry/)
 
 [105_BlackMythWuKong_黑神话悟空🐒_BQB](https://v2fy.com/p/105_blackmythwukong_%e9%bb%91%e7%a5%9e%e8%af%9d%e6%82%9f%e7%a9%ba%f0%9f%90%92_bqb/)
-
-[如何三行命令完成git仓库搬家，完美镜像仓库](https://v2fy.com/p/2024-08-29-19-05-47-git-mirror/)
-
-[搭建地理信息数据库PostGIS](https://v2fy.com/p/2024-08-17-17-47-14-postgis/)
 
 [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
 
