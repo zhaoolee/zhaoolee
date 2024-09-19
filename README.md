@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-19 07:45:54 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-19 08:04:03 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [在有固定IP的服务器上快速搭建gitlab-ce](https://v2fy.com/p/2024-08-31-13-11-03-gitlab-ce/)
 
@@ -14,11 +14,11 @@
 
 [105_BlackMythWuKong_黑神话悟空🐒_BQB](https://v2fy.com/p/105_blackmythwukong_%e9%bb%91%e7%a5%9e%e8%af%9d%e6%82%9f%e7%a9%ba%f0%9f%90%92_bqb/)
 
+[iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
+
 [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
-
-[普通人有哪些副业可以赚钱？](https://fangyuanxiaozhan.com/p/2024-05-08-15-54-58-position/)
 
 ---end---
 
