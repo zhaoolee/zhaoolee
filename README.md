@@ -6,13 +6,13 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-21 18:01:14 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-21 18:20:04 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+
+[提升Docker使用幸福感，为禅道优雅设置Docker重启策略](https://v2fy.com/p/2024-09-21-18-09-55-zentao-docker-restart/)
 
 [一次被Windows Server调教的奇妙经历！为什么没有更多的人使用 Linux？](https://v2fy.com/p/2024-09-21-15-25-44-windows-server-2019/)
 
 [2024年9月还可以用的Docker镜像代理站](https://v2fy.com/p/2024-09-19-14-43-57-docker-mirror/)
-
-[在有固定IP的服务器上快速搭建gitlab-ce](https://v2fy.com/p/2024-08-31-13-11-03-gitlab-ce/)
 
 [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
 
