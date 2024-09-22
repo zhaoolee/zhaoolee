@@ -41,7 +41,7 @@ def main():
     print(v2fy_info)
     fangyuanxiaozhan_info =  get_link_info("https://fangyuanxiaozhan.com/feed/", 3)
     print(fangyuanxiaozhan_info)
-    medium_info = get_link_info("https://medium.com/feed/@zhaoolee")
+    medium_info = get_link_info("https://medium.com/feed/@zhaoolee", 3)
     print(medium_info)
 
     insert_info = v2fy_info + fangyuanxiaozhan_info + medium_info
