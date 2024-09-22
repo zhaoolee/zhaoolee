@@ -6,7 +6,7 @@
 
 ---start---
 
-## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-22 11:46:25 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
+## zhaoolee（老法师昭昭）的每日更新(更新时间:2024-09-22 12:08:44 | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)
 
 [提升Docker使用幸福感，为禅道优雅设置Docker重启策略](https://v2fy.com/p/2024-09-21-18-09-55-zentao-docker-restart/)
 
@@ -19,6 +19,12 @@
 [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
 
 [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
+
+[Enhancing Docker Usage Experience: Elegantly Setting Docker Restart Policies for ZenTao](https://medium.com/@zhaoolee/enhancing-docker-usage-experience-elegantly-setting-docker-restart-policies-for-zentao-2709ecd00a9e?source=rss-1744b6bf3efb------2)
+
+[A Peculiar Experience of Being Schooled by Windows Server! Why Don’t More People Use Linux?](https://medium.com/@zhaoolee/a-peculiar-experience-of-being-schooled-by-windows-server-why-dont-more-people-use-linux-0c2b9e96e559?source=rss-1744b6bf3efb------2)
+
+[“Raspberry Pi Doesn’t Gather Dust” Issue 1: Flashing Ubuntu Server 20.04,](https://medium.com/@zhaoolee/raspberry-pi-doesnt-gather-dust-issue-1-flashing-ubuntu-server-20-04-c1849340c8f4?source=rss-1744b6bf3efb------2)
 
 ---end---
 
