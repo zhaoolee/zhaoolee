@@ -2,65 +2,55 @@ import feedparser
 import time
 import os
 import re
-import pytz
 from datetime import datetime
+import pytz
 
 def get_link_info(feed_url, num):
-
-    result = ""
     feed = feedparser.parse(feed_url)
-    feed_entries = feed["entries"]
-    feed_entries_length = len(feed_entries)
-    all_number = 0;
+    entries = feed.entries[:num]
+    return "\n".join(f"- [{entry.title}]({entry.link})" for entry in entries)
 
-    if(num > feed_entries_length):
-        all_number = feed_entries_length
-    else:
-        all_number = num
+def update_readme(insert_info):
+    readme_path = os.path.join(os.getcwd(), "README.md")
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    for entrie in feed_entries[0: all_number]:
-        title = entrie["title"]
-        link = entrie["link"]
-        result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
+    update_time = datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+    insert_info = f"""---start---
+
+## zhaoolee（老法师昭昭）的每日更新
+
+> 更新时间: {update_time} | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+
+{insert_info}
+
+---end---"""
+
+    new_content = re.sub(r'---start---(.|\n)*---end---', insert_info, content)
     
-    return result
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
     
-
-
-
-
-
-
-
+    return insert_info
 
 def main():
-
-
+    feeds = [
+        ("https://v2fy.com/feed/?allow=zhaoolee", 3),
+        ("https://fangyuanxiaozhan.com/feed/", 3),
+        ("https://medium.com/feed/@zhaoolee", 3)
+    ]
     
-    v2fy_info =  get_link_info("https://v2fy.com/feed/?allow=zhaoolee", 3)
-    print(v2fy_info)
-    fangyuanxiaozhan_info =  get_link_info("https://fangyuanxiaozhan.com/feed/", 3)
-    print(fangyuanxiaozhan_info)
-    medium_info = get_link_info("https://medium.com/feed/@zhaoolee", 3)
-    print(medium_info)
+    all_info = []
+    for url, num in feeds:
+        feed_info = get_link_info(url, num)
+        all_info.append(feed_info)
+        print(f"\n获取到的 {url} 的信息：\n{feed_info}\n")
 
-    insert_info = v2fy_info + fangyuanxiaozhan_info + medium_info
+    insert_info = "\n\n".join(all_info)
+    
+    final_result = update_readme(insert_info)
+    print("\n最终更新到 README.md 的内容：\n")
+    print(final_result)
 
-    # 替换 ---start--- 到 ---end--- 之间的内容
-    # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
-    fmt = '%Y-%m-%d %H:%M:%S %Z%z'
-    insert_info = "---start---\n\n## zhaoolee（老法师昭昭）的每日更新(" + "更新时间:"+  datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + " | 本部分通过Github Actions抓取RSS自动更新, 无意中实现了自动刷绿墙...)" +"\n" + insert_info + "\n---end---"
-    # 获取README.md内容
-    with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
-        readme_md_content = f.read()
-
-    print(insert_info)
-
-    new_readme_md_content = re.sub(r'---start---(.|\n)*---end---', insert_info, readme_md_content)
-
-    with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
-        f.write(new_readme_md_content)
-
-
-
-main()
+if __name__ == "__main__":
+    main()
