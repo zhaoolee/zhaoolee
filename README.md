@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-09-25 03:18:09 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-09-25 03:31:15 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [托管服务器必备技能，为Ubuntu配置ufw防火墙](https://v2fy.com/p/2024-09-23-18-29-50-ufw/)
 - [野路子, 绕过简书Markdown图片上传失败，顺利发布文章](https://v2fy.com/p/2024-09-23-09-38-08-jianshu-img/)
@@ -18,7 +18,9 @@
 - [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
 - [如何低成本使用Midjourney？](https://fangyuanxiaozhan.com/p/2024-05-26-09-21-11-midjourney/)
 
-
+- [Automatically Updating New Medium Blog Feed to Github Homepage via Github Actions](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
+- [Enhancing Docker Usage Experience: Elegantly Setting Docker Restart Policies for ZenTao](https://medium.com/@zhaoolee/enhancing-docker-usage-experience-elegantly-setting-docker-restart-policies-for-zentao-2709ecd00a9e?source=rss-1744b6bf3efb------2)
+- [A Peculiar Experience of Being Schooled by Windows Server! Why Don’t More People Use Linux?](https://medium.com/@zhaoolee/a-peculiar-experience-of-being-schooled-by-windows-server-why-dont-more-people-use-linux-0c2b9e96e559?source=rss-1744b6bf3efb------2)
 
 ---end---
 
