@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-09-24 12:01:20 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-09-24 12:21:04 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [托管服务器必备技能，为Ubuntu配置ufw防火墙](https://v2fy.com/p/2024-09-23-18-29-50-ufw/)
 - [野路子, 绕过简书Markdown图片上传失败，顺利发布文章](https://v2fy.com/p/2024-09-23-09-38-08-jianshu-img/)
 - [通过Github Actions将Medium新博客Feed自动更新到github主页](https://v2fy.com/p/2024-09-22-12-57-14-medium-feed/)
-- [提升Docker使用幸福感，为禅道优雅设置Docker重启策略](https://v2fy.com/p/2024-09-21-18-09-55-zentao-docker-restart/)
 
 - [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
 - [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
