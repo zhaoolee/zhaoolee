@@ -8,9 +8,9 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-10-07 18:01:25 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-10-07 18:21:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-- [pypiserver](https://v2fy.com/p/2024-09-30-11-12-56-pypiserver/)
+- [完全攻略！如何从零搭建Python私有仓库pypi，并发布包给其它项目组？](https://v2fy.com/p/2024-09-30-11-12-56-pypiserver/)
 - [如何让魔法路由器为特定设备解除魔法](https://v2fy.com/p/2024-10-03-14-21-48-pt-proxy/)
 - [每天一个吹B小知识，让Vim再次伟大！vim粘贴Python代码并保持格式缩进的技巧](https://v2fy.com/p/2024-09-25-12-28-53-vim-paste/)
 
