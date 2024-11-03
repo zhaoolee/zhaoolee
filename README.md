@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-11-03 15:31:37 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-11-03 15:46:15 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [低成本的创业引流项目：极简主义的野兽派个人空间](https://v2fy.com/p/2024-11-03-14-45-14-lynx_boo/)
 - [创业思考：5美元是西半球每月订阅的甜品价格](https://v2fy.com/p/2024-10-19-18-13-39-english-writing/)
 - [完全攻略！如何从零搭建Python私有仓库pypi，并发布包给其它项目组？](https://v2fy.com/p/2024-09-30-11-12-56-pypiserver/)
-- [如何让魔法路由器为特定设备解除魔法](https://v2fy.com/p/2024-10-03-14-21-48-pt-proxy/)
 
 - [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
 - [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
