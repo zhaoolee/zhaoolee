@@ -8,15 +8,13 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-11-07 17:48:47 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-11-07 18:04:13 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 
 
 
 
-- [From Google Maps to Lazy Bars: How Hacker News Is Inspiring the Next Wave of Tech Innovation](https://medium.com/@zhaoolee/from-google-maps-to-lazy-bars-how-hacker-news-is-inspiring-the-next-wave-of-tech-innovation-01f0f2952183?source=rss-1744b6bf3efb------2)
-- [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
-- [Enhancing Docker Usage Experience: Elegantly Setting Docker Restart Policies for ZenTao](https://medium.com/@zhaoolee/enhancing-docker-usage-experience-elegantly-setting-docker-restart-policies-for-zentao-2709ecd00a9e?source=rss-1744b6bf3efb------2)
+
 
 ---end---
 
