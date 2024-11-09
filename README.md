@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-11-09 14:46:11 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-11-09 15:01:36 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [部署并启用redis 为Python经典框架fastapi长耗时接口添加缓存支持的步骤](https://v2fy.com/p/2024-11-09-12-35-49-deploy-redis/)
+- [安卓抓包的预习参考教程收集](https://v2fy.com/p/2024-11-07-09-46-34-android-data/)
 - [加班导致肥胖的思考](https://v2fy.com/p/2024-11-04-16-35-17-obesity/)
-- [低成本的创业引流项目：极简主义的野兽派个人空间](https://v2fy.com/p/2024-11-03-14-45-14-lynx_boo/)
-- [创业思考：5美元是西半球每月订阅的甜品价格](https://v2fy.com/p/2024-10-19-18-13-39-english-writing/)
 
 - [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
 - [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
