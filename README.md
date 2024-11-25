@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-11-25 09:50:11 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-11-25 10:27:31 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [Windows11 macOS M系芯片 Vmware虚拟机附带镜像天翼云分享](https://v2fy.com/p/2024-11-24-18-04-52-windows11-mac-m1/)
 - [开源网络延迟检测时钟，小而美的极客好物](https://v2fy.com/p/2024-11-16-14-51-47-clock-network/)
 - [部署并启用redis 为Python经典框架fastapi长耗时接口添加缓存支持的步骤](https://v2fy.com/p/2024-11-09-12-35-49-deploy-redis/)
-- [安卓抓包的预习参考教程收集](https://v2fy.com/p/2024-11-07-09-46-34-android-data/)
 
 - [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
 - [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
