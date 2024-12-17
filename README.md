@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-12-17 15:21:03 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-12-17 15:32:23 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [解决macOS版Claude Desktop无法读取本地文件的问题](https://v2fy.com/p/2024-12-02-15-12-32-mcp-claude/)
 - [Windows11 macOS M系芯片 Vmware虚拟机附带镜像天翼云分享](https://v2fy.com/p/2024-11-24-18-04-52-windows11-mac-m1/)
