@@ -8,11 +8,9 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-12-19 13:01:35 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-12-19 13:21:40 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-- [解决macOS版Claude Desktop无法读取本地文件的问题](https://v2fy.com/p/2024-12-02-15-12-32-mcp-claude/)
-- [Windows11 macOS M系芯片 Vmware虚拟机附带镜像天翼云分享](https://v2fy.com/p/2024-11-24-18-04-52-windows11-mac-m1/)
-- [开源网络延迟检测时钟，小而美的极客好物](https://v2fy.com/p/2024-11-16-14-51-47-clock-network/)
+
 
 - [iPhone Mirroring的妙用](https://fangyuanxiaozhan.com/p/2024-09-19-07-01-39-iphone-mirroring/)
 - [开阔眼界，提升品味，打造更好的产品](https://fangyuanxiaozhan.com/p/2024-09-15-17-46-31-game/)
