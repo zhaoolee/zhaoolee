@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2024-12-26 12:21:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2024-12-26 12:34:17 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [《树莓派不吃灰》030：Update kuma监控线上服务，服务预警通知到Telegram](https://v2fy.com/p/2024-12-22-12-42-57-kuma/)
 - [解决macOS版Claude Desktop无法读取本地文件的问题](https://v2fy.com/p/2024-12-02-15-12-32-mcp-claude/)
