@@ -8,13 +8,15 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-01-11 02:03:47 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-01-11 02:21:30 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [《树莓派不吃灰》030：Update kuma监控线上服务，服务预警通知到Telegram](https://v2fy.com/p/2024-12-22-12-42-57-kuma/)
 - [解决macOS版Claude Desktop无法读取本地文件的问题](https://v2fy.com/p/2024-12-02-15-12-32-mcp-claude/)
 - [Windows11 macOS M系芯片 Vmware虚拟机附带镜像天翼云分享](https://v2fy.com/p/2024-11-24-18-04-52-windows11-mac-m1/)
 
-
+- [如何理解王阳明的知行合一?](https://fangyuanxiaozhan.com/p/2024-12-28-17-01-21-unity-of-knowledge-and-action/)
+- [群晖的妙用](https://fangyuanxiaozhan.com/p/2024-12-28-17-35-48-the-magic-of-synology/)
+- [盘外招走进现实，身体是革命的本钱](https://fangyuanxiaozhan.com/p/2024-12-28-17-20-46-capital-of-ravolution/)
 
 - [From Google Maps to Lazy Bars: How Hacker News Is Inspiring the Next Wave of Tech Innovation](https://medium.com/@zhaoolee/from-google-maps-to-lazy-bars-how-hacker-news-is-inspiring-the-next-wave-of-tech-innovation-01f0f2952183?source=rss-1744b6bf3efb------2)
 - [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
