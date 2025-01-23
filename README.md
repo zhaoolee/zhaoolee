@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-01-23 20:55:48 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-01-23 21:05:37 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [春节分流抢票图文攻略](https://v2fy.com/p/2025-01-19-14-45-31-bypass/)
 - [2025年如何解封Claude账号？三天解封Claude账号的经验](https://v2fy.com/p/2025-01-11-14-09-30-claude/)
@@ -18,7 +18,9 @@
 - [群晖的妙用](https://fangyuanxiaozhan.com/p/2024-12-28-17-35-48-the-magic-of-synology/)
 - [盘外招走进现实，身体是革命的本钱](https://fangyuanxiaozhan.com/p/2024-12-28-17-20-46-capital-of-ravolution/)
 
-
+- [From Google Maps to Lazy Bars: How Hacker News Is Inspiring the Next Wave of Tech Innovation](https://medium.com/@zhaoolee/from-google-maps-to-lazy-bars-how-hacker-news-is-inspiring-the-next-wave-of-tech-innovation-01f0f2952183?source=rss-1744b6bf3efb------2)
+- [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
+- [Enhancing Docker Usage Experience: Elegantly Setting Docker Restart Policies for ZenTao](https://medium.com/@zhaoolee/enhancing-docker-usage-experience-elegantly-setting-docker-restart-policies-for-zentao-2709ecd00a9e?source=rss-1744b6bf3efb------2)
 
 ---end---
 
