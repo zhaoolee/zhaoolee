@@ -8,13 +8,15 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-03-12 07:22:33 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-03-12 07:31:31 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [全球人类访问deepseek可以少敲几个字符了](https://v2fy.com/p/2025-02-09-16-43-58-ai-com-redirect-to-deepseek/)
 - [春节分流抢票图文攻略](https://v2fy.com/p/2025-01-19-14-45-31-bypass/)
 - [2025年如何解封Claude账号？三天解封Claude账号的经验](https://v2fy.com/p/2025-01-11-14-09-30-claude/)
 
-
+- [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://fangyuanxiaozhan.com/p/2025-02-15-16-38-39-eth-cryptokitties/)
+- [如何用DeepSeek大模型获取今日运势?](https://fangyuanxiaozhan.com/p/2025-02-13-10-21-47-zen-llm/)
+- [如何理解王阳明的知行合一?](https://fangyuanxiaozhan.com/p/2024-12-28-17-01-21-unity-of-knowledge-and-action/)
 
 - [From Google Maps to Lazy Bars: How Hacker News Is Inspiring the Next Wave of Tech Innovation](https://medium.com/@zhaoolee/from-google-maps-to-lazy-bars-how-hacker-news-is-inspiring-the-next-wave-of-tech-innovation-01f0f2952183?source=rss-1744b6bf3efb------2)
 - [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
