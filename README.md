@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-03-17 16:02:03 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-03-17 16:22:03 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [使用uv更快速地管理Python项目](https://v2fy.com/p/2025-03-17-10-28-56-uv/)
 - [全球人类访问deepseek可以少敲几个字符了](https://v2fy.com/p/2025-02-09-16-43-58-ai-com-redirect-to-deepseek/)
 - [春节分流抢票图文攻略](https://v2fy.com/p/2025-01-19-14-45-31-bypass/)
-- [2025年如何解封Claude账号？三天解封Claude账号的经验](https://v2fy.com/p/2025-01-11-14-09-30-claude/)
 
 - [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://fangyuanxiaozhan.com/p/2025-02-15-16-38-39-eth-cryptokitties/)
 - [如何用DeepSeek大模型获取今日运势?](https://fangyuanxiaozhan.com/p/2025-02-13-10-21-47-zen-llm/)
