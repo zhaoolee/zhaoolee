@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-03-23 03:19:31 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-03-23 03:31:32 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [减少复制粘贴，充分使用ChatGPT官方客户端协作VScode写代码](https://v2fy.com/p/2025-03-19-11-08-47-chatgpt-vscode/)
 - [使用uv更快速地管理Python项目](https://v2fy.com/p/2025-03-17-10-28-56-uv/)
