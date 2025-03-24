@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-03-25 01:34:07 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-03-25 01:46:32 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [减少复制粘贴，充分使用ChatGPT官方客户端协作VScode写代码](https://v2fy.com/p/2025-03-19-11-08-47-chatgpt-vscode/)
 - [使用uv更快速地管理Python项目](https://v2fy.com/p/2025-03-17-10-28-56-uv/)
@@ -18,7 +18,9 @@
 - [如何用DeepSeek大模型获取今日运势?](https://fangyuanxiaozhan.com/p/2025-02-13-10-21-47-zen-llm/)
 - [如何理解王阳明的知行合一?](https://fangyuanxiaozhan.com/p/2024-12-28-17-01-21-unity-of-knowledge-and-action/)
 
-
+- [From Google Maps to Lazy Bars: How Hacker News Is Inspiring the Next Wave of Tech Innovation](https://medium.com/@zhaoolee/from-google-maps-to-lazy-bars-how-hacker-news-is-inspiring-the-next-wave-of-tech-innovation-01f0f2952183?source=rss-1744b6bf3efb------2)
+- [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
+- [Enhancing Docker Usage Experience: Elegantly Setting Docker Restart Policies for ZenTao](https://medium.com/@zhaoolee/enhancing-docker-usage-experience-elegantly-setting-docker-restart-policies-for-zentao-2709ecd00a9e?source=rss-1744b6bf3efb------2)
 
 ---end---
 
