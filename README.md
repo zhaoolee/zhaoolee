@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-04-11 19:01:33 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-04-11 19:19:44 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-- [解决macOS版zerotier报错Waiting for ZeroTier system service的问题](https://v2fy.com/p/2025-04-10-09-55-36-zerotier/)
-- [减少复制粘贴，充分使用ChatGPT官方客户端协作VScode写代码](https://v2fy.com/p/2025-03-19-11-08-47-chatgpt-vscode/)
-- [使用uv更快速地管理Python项目](https://v2fy.com/p/2025-03-17-10-28-56-uv/)
+- [如何玩转esp32](https://v2fy.com/p/2025-02-18-14-13-48-esp32/)
+- [微软50周年纪念壁纸 50th-windows-wallpapers](https://v2fy.com/p/2025-04-11-16-42-19-50th-windows-wallpapers/)
+- [开发小语种输入法能不能赚钱？](https://v2fy.com/p/2025-02-17-10-41-30-input/)
 
 - [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://fangyuanxiaozhan.com/p/2025-02-15-16-38-39-eth-cryptokitties/)
 - [如何用DeepSeek大模型获取今日运势?](https://fangyuanxiaozhan.com/p/2025-02-13-10-21-47-zen-llm/)
