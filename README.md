@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-04-11 11:51:18 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-04-11 12:01:27 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [解决macOS版zerotier报错Waiting for ZeroTier system service的问题](https://v2fy.com/p/2025-04-10-09-55-36-zerotier/)
 - [减少复制粘贴，充分使用ChatGPT官方客户端协作VScode写代码](https://v2fy.com/p/2025-03-19-11-08-47-chatgpt-vscode/)
