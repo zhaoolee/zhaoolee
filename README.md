@@ -8,10 +8,10 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-04-13 18:21:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-04-13 18:35:03 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [如何玩转esp32](https://v2fy.com/p/2025-02-18-14-13-48-esp32/)
-- [微软50周年纪念壁纸 50th-windows-wallpapers](https://v2fy.com/p/2025-04-11-16-42-19-50th-windows-wallpapers/)
+- [比尔盖茨庆祝微软50周年回忆博客（附原文翻译以及Windows纪念壁纸下载）](https://v2fy.com/p/2025-04-11-16-42-19-50th-windows-wallpapers/)
 - [开发小语种输入法能不能赚钱？](https://v2fy.com/p/2025-02-17-10-41-30-input/)
 
 - [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://fangyuanxiaozhan.com/p/2025-02-15-16-38-39-eth-cryptokitties/)
