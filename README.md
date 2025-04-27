@@ -8,9 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-04-27 20:22:45 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-04-27 20:42:31 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-
+- [今日爆火的高仿Manus的开源软件Suna使用成本](https://v2fy.com/p/2025-04-25-17-17-28-suna/)
+- [Chrome浏览器在http网页上支持打开麦克风](https://v2fy.com/p/2025-04-20-12-55-17-treat-insecure-for-audio/)
+- [《树莓派不吃灰》031：基于Dufs在树莓派搭建基于Web的支持读写的网盘，顺带白送一个webdav服务](https://v2fy.com/p/2025-04-23-16-13-36-dufs/)
 
 - [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://fangyuanxiaozhan.com/p/2025-04-19-13-19-39-scarcity/)
 - [币圈赌狗游戏加密猫要投入多少钱？如何玩官方免费版加密猫？](https://fangyuanxiaozhan.com/p/2025-02-15-16-38-39-eth-cryptokitties/)
