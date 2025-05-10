@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-05-10 13:45:56 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-05-10 14:01:28 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [《树莓派不吃灰》032：基于Deepseek每天自动算八字，自动生成最合适的摆件显示在办公桌](https://v2fy.com/p/2025-05-10-11-29-25-fortune/)
 - [解决树莓派官方系统在浏览器打开网页无法显示Emoji的问题](https://v2fy.com/p/2025-05-09-14-12-37-show-emoji-in-raspberry-pi-os/)
 - [今日爆火的高仿Manus的开源软件Suna使用成本](https://v2fy.com/p/2025-04-25-17-17-28-suna/)
-- [Chrome浏览器在http网页上支持打开麦克风](https://v2fy.com/p/2025-04-20-12-55-17-treat-insecure-for-audio/)
 
 - [玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
 - [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://fangyuanxiaozhan.com/p/2025-04-19-13-19-39-scarcity/)
