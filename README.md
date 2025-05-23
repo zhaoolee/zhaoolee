@@ -8,9 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-05-24 01:01:56 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-05-24 01:20:26 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-
+- [《树莓派不吃灰》033：为ubuntu server 24.04添加xfce4轻量化桌面配合xrdp实现图形化控制](https://v2fy.com/p/2025-05-19-17-26-58-pi-ubuntu-add-desktop/)
+- [《树莓派不吃灰》032：基于Deepseek每天自动算八字，自动生成最合适的摆件显示在办公桌](https://v2fy.com/p/2025-05-10-11-29-25-fortune/)
+- [解决树莓派官方系统在浏览器打开网页无法显示Emoji的问题](https://v2fy.com/p/2025-05-09-14-12-37-show-emoji-in-raspberry-pi-os/)
 
 - [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 - [玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
