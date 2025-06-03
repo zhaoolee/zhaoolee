@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-06-04 03:31:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-06-04 03:46:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [一次借助ChatGPT抵御恶意攻击的经历，为个人服务器添加自动防御系统fail2ban](https://v2fy.com/p/2025-06-02-13-36-27-fail2ban/)
 - [《树莓派不吃灰》033：为ubuntu server 24.04添加xfce4轻量化桌面配合xrdp实现图形化控制](https://v2fy.com/p/2025-05-19-17-26-58-pi-ubuntu-add-desktop/)
