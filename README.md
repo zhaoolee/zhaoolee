@@ -8,13 +8,15 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-06-03 21:42:32 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-06-03 21:50:49 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [一次借助ChatGPT抵御恶意攻击的经历，为个人服务器添加自动防御系统fail2ban](https://v2fy.com/p/2025-06-02-13-36-27-fail2ban/)
 - [《树莓派不吃灰》033：为ubuntu server 24.04添加xfce4轻量化桌面配合xrdp实现图形化控制](https://v2fy.com/p/2025-05-19-17-26-58-pi-ubuntu-add-desktop/)
 - [《树莓派不吃灰》032：基于Deepseek每天自动算八字，自动生成最合适的摆件显示在办公桌](https://v2fy.com/p/2025-05-10-11-29-25-fortune/)
 
-
+- [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
+- [玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
+- [乐观劲上来了，总感觉自己刀枪不入，而市场最爱惩罚自以为是的人](https://fangyuanxiaozhan.com/p/2025-04-19-13-19-39-scarcity/)
 
 - [From Google Maps to Lazy Bars: How Hacker News Is Inspiring the Next Wave of Tech Innovation](https://medium.com/@zhaoolee/from-google-maps-to-lazy-bars-how-hacker-news-is-inspiring-the-next-wave-of-tech-innovation-01f0f2952183?source=rss-1744b6bf3efb------2)
 - [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
