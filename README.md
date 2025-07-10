@@ -8,9 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-07-10 12:16:47 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-07-10 12:40:30 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-
+- [让KDE输入法更好用的配置Fcitx5 + Rime（中州韵）](https://v2fy.com/p/2025-06-03-09-52-29-config-ubuntu-kde/)
+- [让Linux Ubuntu KDE桌面smb拷贝更快，提升Plex server影视服务器读取效率](https://v2fy.com/p/2025-06-02-22-56-55-more-power-smb-in-ked/)
+- [一次借助ChatGPT抵御恶意攻击的经历，为个人服务器添加自动防御系统fail2ban](https://v2fy.com/p/2025-06-02-13-36-27-fail2ban/)
 
 - [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
 - [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
