@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-07-26 15:33:37 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-07-26 15:46:18 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [让KDE输入法更好用的配置Fcitx5 + Rime（中州韵）](https://v2fy.com/p/2025-06-03-09-52-29-config-ubuntu-kde/)
 - [让Linux Ubuntu KDE桌面smb拷贝更快，提升Plex server影视服务器读取效率](https://v2fy.com/p/2025-06-02-22-56-55-more-power-smb-in-ked/)
