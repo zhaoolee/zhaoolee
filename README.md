@@ -39,7 +39,7 @@
 | [求和! 李姐万岁! GitBook For WordPress](https://github.com/zhaoolee/gitbook-for-wordpress)  | 一个GitBook布局，锤子便签配色风格的WordPress主题  |
 | [Typora私有化图床上传工具](https://github.com/zhaoolee/EasyTypora)  |  zhaoolee为Typora定制一个私有化图床上传工具（含私有化图床搭建方案) |
 | [Github的README.md图片替换工具](https://github.com/zhaoolee/replace_readme_md_image) |  将Github仓库README.md中的图片保存到仓库，并自动替换为Github图片链接  |
-| [zhaoolee的简书博客](https://www.jianshu.com/u/c5d047065c42) | 简书已经被卖掉了... |
+| [zhaoolee的小红书](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397) | 小红书真的在乎创作者的用户体验 |
 | [公众号：0加1](https://v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png)  |  0加1，防加班办公技能宝典，zhaoolee个人的日更的公众号 |
 | [Medium](https://medium.com/@zhaoolee)  | zhaoolee Medium Blog |
 | [V2方圆](https://v2fy.com)  | zhaoolee的资源网站，**挖掘稀缺资源** |
