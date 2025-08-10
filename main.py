@@ -37,7 +37,8 @@ def main():
     feeds = [
         ("https://v2fy.com/feed/?allow=zhaoolee", 3),
         ("https://fangyuanxiaozhan.com/feed/", 3),
-        ("https://medium.com/feed/@zhaoolee", 3)
+        ("https://medium.com/feed/@zhaoolee", 3),
+        ("https://rsshub.app/xiaohongshu/user/566a6d770bf90c7076c1f397/notes", 3),
     ]
     
     all_info = []
