@@ -1,5 +1,4 @@
 import feedparser
-import time
 import os
 import re
 from datetime import datetime
@@ -34,18 +33,22 @@ def update_readme(insert_info):
     return insert_info
 
 def main():
+    RSSHUB_ACCESS_KEY = os.getenv("RSSHUB_ACCESS_KEY")
+    if not RSSHUB_ACCESS_KEY:
+        raise RuntimeError("RSSHUB_ACCESS_KEY 未注入到环境变量（请在 workflow 的 env 中传入 secrets）")
+
     feeds = [
         ("https://v2fy.com/feed/?allow=zhaoolee", 3),
         ("https://fangyuanxiaozhan.com/feed/", 3),
         ("https://medium.com/feed/@zhaoolee", 3),
-        ("https://rsshub.app/xiaohongshu/user/566a6d770bf90c7076c1f397/notes", 3),
+        (f"https://rsshub.v2fy.com/xiaohongshu/user/566a6d770bf90c7076c1f397/notes?key={RSSHUB_ACCESS_KEY}", 3),
     ]
     
     all_info = []
     for url, num in feeds:
         feed_info = get_link_info(url, num)
         all_info.append(feed_info)
-        print(f"\n获取到的 {url} 的信息：\n{feed_info}\n")
+        print(f"\n获取到的信息：\n{feed_info}\n")
 
     insert_info = "\n\n".join(all_info)
     
