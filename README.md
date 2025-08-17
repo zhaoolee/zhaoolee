@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-08-17 11:16:03 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-08-17 11:47:31 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
 - [让KDE输入法更好用的配置Fcitx5 + Rime（中州韵）](https://v2fy.com/p/2025-06-03-09-52-29-config-ubuntu-kde/)
@@ -22,9 +22,9 @@
 - [1 trick of auto Update New Medium Blog Feed to Github](https://medium.com/@zhaoolee/automatically-updating-new-medium-blog-feed-to-github-homepage-via-github-actions-05a942fbfe4e?source=rss-1744b6bf3efb------2)
 - [Enhancing Docker Usage Experience: Elegantly Setting Docker Restart Policies for ZenTao](https://medium.com/@zhaoolee/enhancing-docker-usage-experience-elegantly-setting-docker-restart-policies-for-zentao-2709ecd00a9e?source=rss-1744b6bf3efb------2)
 
+- [AI改BUG主打情绪拉满：您说的对！](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员：测试环境好，生产环境坏](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员：需要我帮倒忙吗？git push --force](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
-- [三十年河东，三十年河西！NVIDIA FUCK YOU!](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 
 ---end---
 
