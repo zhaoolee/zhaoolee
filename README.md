@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-08-19 18:48:21 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-08-19 19:01:36 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
 - [让KDE输入法更好用的配置Fcitx5 + Rime（中州韵）](https://v2fy.com/p/2025-06-03-09-52-29-config-ubuntu-kde/)
@@ -18,12 +18,7 @@
 - [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 - [玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
 
-- [程序员笑话：sudo的魅力🤩](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
-- [程序员巧记git命令](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
-- [狡猾的程序员：送AI一只小黄鸭](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
-- [程序员：TCP是水倒嘴里，UDP是浇身上](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
-- [男性成员，女性成员，程序员](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
-- [尊贵的Linux 用户： Just Sudo It](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+
 
 ---end---
 
