@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-09-01 07:46:28 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-09-01 08:05:47 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [107_FLittleBrother_葫芦兄弟_BQB](https://v2fy.com/p/107_flittlebrother_%e8%91%ab%e8%8a%a6%e5%85%84%e5%bc%9f_bqb/)
 - [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
@@ -18,7 +18,12 @@
 - [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 - [玄乎儿分光镜，赛博玄修趋吉避凶！](https://fangyuanxiaozhan.com/p/2025-05-03-16-00-04-xuanhu/)
 
-
+- [程序员笑话：sudo的魅力🤩](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员巧记git命令](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [年少有为的25岁程序员](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员招聘设计师搞的抽象视频](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [真正的程序员神莹内敛](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [直男程序员的七夕夜晚](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 
 ---end---
 
