@@ -8,14 +8,16 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-09-12 03:47:23 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-09-12 04:03:20 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 
 
+- [企业为什么要追求自动化与数字化](https://fangyuanxiaozhan.com/p/2025-09-06-13-34-44-automation/)
+- [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
+- [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 
-
-- [程序员巧记git命令](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员笑话：sudo的魅力🤩](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员巧记git命令](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员整理祖传代码](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员锻炼法：每出一个bug就做一个俯卧撑](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [Doctor And Programmer](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
