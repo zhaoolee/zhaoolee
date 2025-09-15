@@ -8,7 +8,7 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-09-15 07:46:22 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-09-15 08:05:07 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [107_FLittleBrother_葫芦兄弟_BQB](https://v2fy.com/p/107_flittlebrother_%e8%91%ab%e8%8a%a6%e5%85%84%e5%bc%9f_bqb/)
 - [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
@@ -18,8 +18,8 @@
 - [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
 - [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 
-- [程序员笑话：sudo的魅力🤩](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员巧记git命令](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员笑话：sudo的魅力🤩](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [💬程序员实用口语：礼貌用语，聊天首字母简写](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员口语：前后端调试，发版](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 - [程序员口语：代码审查，Git协作，解八阿哥测试](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
