@@ -8,13 +8,18 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-09-19 21:13:55 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-09-19 21:26:56 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 
 
 
 
-
+- [程序员巧记git命令](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员笑话：sudo的魅力🤩](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [DeepSeek写代码八荣八耻，要求AI每天念一遍](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [好运来☘️！20分钟AI零代码完成风水算命APP](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员：人生苦短，我用满血版](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
+- [程序员笑话Linux Kali：你去把唐僧师徒干掉！](https://www.xiaohongshu.com/user/profile/566a6d770bf90c7076c1f397)
 
 ---end---
 
