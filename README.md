@@ -8,13 +8,15 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-09-20 11:10:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-09-20 11:19:27 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [107_FLittleBrother_葫芦兄弟_BQB](https://v2fy.com/p/107_flittlebrother_%e8%91%ab%e8%8a%a6%e5%85%84%e5%bc%9f_bqb/)
+- [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
+- [让KDE输入法更好用的配置Fcitx5 + Rime（中州韵）](https://v2fy.com/p/2025-06-03-09-52-29-config-ubuntu-kde/)
 
-
-
-
-
+- [企业为什么要追求自动化与数字化](https://fangyuanxiaozhan.com/p/2025-09-06-13-34-44-automation/)
+- [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
+- [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 
 ---end---
 
