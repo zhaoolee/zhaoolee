@@ -28,6 +28,7 @@
 | [Chrome插件英雄榜 ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本开源中文说明书, 让Chrome插件英雄们造福人类~ |
 | [中国人的表情包 ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ [ChinseBQB搜索表情包小工具体验地址](https://v2fy.com/asset/0i/ChineseBQB/) |
 | [方圆灵感导航 in](https://github.com/zhaoolee/in) | 带宝藏网站使用说明书的开源导航 [方圆灵感导航体验地址](https://v2fy.com/in/) |
+| [程序员梗图火炬](https://github.com/zhaoolee/xiaohongshu-programmer-memes) | 原创的程序员梗图连载 |
 | [用英语经典台词原音学英语](https://github.com/zhaoolee/inspop) | zhaoolee写的一个学习英语的Chrome扩展程序 |
 | [在线工具秘籍](https://github.com/zhaoolee/OnlineToolsBook) |  🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ |
 | [嘎！RSS](https://github.com/zhaoolee/garss)  |  为打破信息茧房而生，基于Github Actions 的零成本RSS内容自动化收集工具, 也是一个舆情监控工具  |
