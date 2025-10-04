@@ -8,13 +8,15 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2025-10-04 16:04:17 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2025-10-04 16:21:16 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [为什么要使用 Claude code？如何通过白嫖阿里千问驱动Claude code](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
 - [107_FLittleBrother_葫芦兄弟_BQB](https://v2fy.com/p/107_flittlebrother_%e8%91%ab%e8%8a%a6%e5%85%84%e5%bc%9f_bqb/)
 - [通过rss订阅小红书，程序员将小红书同步到自己的github主页](https://v2fy.com/p/2025-08-16-12-40-11-rsshub-rednote/)
 
-
+- [企业为什么要追求自动化与数字化](https://fangyuanxiaozhan.com/p/2025-09-06-13-34-44-automation/)
+- [未来的某一天，坐在⽕炉边上，去品味⼀段AI编写的深奥程序](https://fangyuanxiaozhan.com/p/2025-06-25-09-18-39-cursor-experience/)
+- [每月30刀的Midjourney值不值？](https://fangyuanxiaozhan.com/p/2025-05-11-16-18-43-mj/)
 
 ---end---
 
