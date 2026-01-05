@@ -8,11 +8,9 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2026-01-05 19:47:13 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2026-01-05 20:02:39 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-- [《树莓派不吃灰》035：使用Metube下载存储你喜欢的Youtube视频](https://v2fy.com/p/2025-10-29-16-24-15-metube/)
-- [《树莓派不吃灰》034：使用qemu在树莓派运行x86镜像，以大模型二道贩子x86镜像new api为例](https://v2fy.com/p/2025-10-16-22-25-01-x86/)
-- [Claude Code使用指北（如何白嫖百万Qwen3 Token,每月劲省20刀)](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
+
 
 - [值得一人公司独立开发者每天花半小时获取灵感的网站](https://fangyuanxiaozhan.com/p/2026-01-03-14-25-29-get-info-everyday/)
 - [Manus：你知道我们的视频做的非常草台, 快就是我们的核心竞争力](https://fangyuanxiaozhan.com/p/2026-01-03-12-16-39-manus/)
