@@ -8,9 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2026-01-14 12:58:47 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2026-01-14 13:11:07 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-
+- [《树莓派不吃灰》035：使用Metube下载存储你喜欢的Youtube视频](https://v2fy.com/p/2025-10-29-16-24-15-metube/)
+- [《树莓派不吃灰》034：使用qemu在树莓派运行x86镜像，以大模型二道贩子x86镜像new api为例](https://v2fy.com/p/2025-10-16-22-25-01-x86/)
+- [Claude Code使用指北（如何白嫖百万Qwen3 Token,每月劲省20刀)](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
 
 - [流利的博客](https://fangyuanxiaozhan.com/p/2026-01-07-16-30-32-fluent-blog/)
 - [AI技术本身是反协作的，但它能提升程序员的生产力](https://fangyuanxiaozhan.com/p/2026-01-07-14-22-23-employee/)
