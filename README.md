@@ -8,11 +8,9 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2026-02-02 18:30:44 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2026-02-02 19:02:23 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-- [《树莓派不吃灰》035：使用Metube下载存储你喜欢的Youtube视频](https://v2fy.com/p/2025-10-29-16-24-15-metube/)
-- [《树莓派不吃灰》034：使用qemu在树莓派运行x86镜像，以大模型二道贩子x86镜像new api为例](https://v2fy.com/p/2025-10-16-22-25-01-x86/)
-- [Claude Code使用指北（如何白嫖百万Qwen3 Token,每月劲省20刀)](https://v2fy.com/p/2025-09-20-14-28-20-claude-code/)
+
 
 - [Openclaw的8条实用技巧,教你用OpenClaw自动分析懂王推文](https://fangyuanxiaozhan.com/p/2026-02-01-10-41-58-openclaw-tips/)
 - [二道贩子在卖什么？Mac Mini跑OpenClaw为平民打工人赚了什么？](https://fangyuanxiaozhan.com/p/2026-01-31-10-17-17-openclaw/)
