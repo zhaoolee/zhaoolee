@@ -1,5 +1,7 @@
 ### zhaoolee: 一个热衷开源事业的程序员 👋
 
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/zhaoolee)
+
 ![zhaoolee](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zhaoolee)
 
 
