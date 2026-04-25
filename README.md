@@ -8,11 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2026-04-25 18:48:40 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2026-04-25 19:13:35 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
+- [2026-04-25-18-20-20-bbduck](https://v2fy.com/p/2026-04-25-18-20-20-bbduck/)
 - [通过Telegram自动化运维Windows，hermes实现自动回复微信群组消息](https://v2fy.com/p/2026-04-16-10-12-28-ssh-backend-hermes/)
 - [使用Docker为电脑安装openclaw 2026.3.24尝鲜版](https://v2fy.com/p/2026-03-26-14-37-06-docker-openclaw/)
-- [《树莓派不吃灰》035：使用树莓派5B运行openclaw，快速领取麦当劳优惠券，使用skill刷推](https://v2fy.com/p/2026-02-03-09-09-04-openclaw-pi/)
 
 - [OpenClaw变现的途径](https://fangyuanxiaozhan.com/p/2026-02-09-21-58-15-openclaw/)
 - [Openclaw的8条实用技巧,教你用OpenClaw自动分析懂王推文](https://fangyuanxiaozhan.com/p/2026-02-01-10-41-58-openclaw-tips/)
