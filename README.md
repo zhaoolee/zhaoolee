@@ -8,15 +8,15 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2026-06-10 18:52:04 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2026-06-10 20:03:47 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
 - [6个月AI消费1万2000元的6条超值经验](https://v2fy.com/p/2026-05-07-14-41-15-1000-yuan/)
 - [AI时代如何薅羊毛？](https://v2fy.com/p/2026-05-07-10-11-08-free/)
 - [108_Pingu_企鹅家族_BQB](https://v2fy.com/p/108_pingu_%e4%bc%81%e9%b9%85%e5%ae%b6%e6%97%8f_bqb/)
 
+- [A除最畜生的一代模型 Claude 5 发布后…](https://fangyuanxiaozhan.com/p/2026-06-10-14-25-36-anthropic-fable-5/)
 - [OpenClaw变现的途径](https://fangyuanxiaozhan.com/p/2026-02-09-21-58-15-openclaw/)
 - [Openclaw的8条实用技巧,教你用OpenClaw自动分析懂王推文](https://fangyuanxiaozhan.com/p/2026-02-01-10-41-58-openclaw-tips/)
-- [二道贩子在卖什么？Mac Mini跑OpenClaw为平民打工人赚了什么？](https://fangyuanxiaozhan.com/p/2026-01-31-10-17-17-openclaw/)
 
 ---end---
 
