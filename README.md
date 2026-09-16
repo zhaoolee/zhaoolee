@@ -8,9 +8,11 @@
 
 ## zhaoolee（老法师昭昭）的每日更新
 
-> 更新时间: 2026-09-16 10:11:31 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
+> 更新时间: 2026-09-16 15:39:00 | 本部分通过Github Actions抓取RSS自动更新，无意中实现了自动刷绿墙...
 
-
+- [StickMe 隐私政策](https://v2fy.com/p/2026-09-05-stickme-privacy/)
+- [109_Opossum_负鼠_BQB](https://v2fy.com/p/109_opossum_%e8%b4%9f%e9%bc%a0_bqb/)
+- [6个月AI消费1万2000元的6条超值经验](https://v2fy.com/p/2026-05-07-14-41-15-1000-yuan/)
 
 - [用AI打磨软件](https://fangyuanxiaozhan.com/p/2026-06-16-11-38-56-use-ai-polish-the-software/)
 - [A除最畜生的一代模型 Claude 5 发布后…](https://fangyuanxiaozhan.com/p/2026-06-10-14-25-36-anthropic-fable-5/)
