@@ -27,6 +27,7 @@
 | ---    | --- |
 | [Chrome插件英雄榜 ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本开源中文说明书, 让Chrome插件英雄们造福人类~ |
 | [中国人的表情包 ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ [ChinseBQB搜索表情包小工具体验地址](https://v2fy.com/asset/0i/ChineseBQB/) |
+| [摄影学英语](https://apps.apple.com/cn/app/id6808490052) | 用老照片学英语，拍照即可获取记忆词卡，场景化背单词，适用于学生，白领，媒体工作者 [App Store](https://apps.apple.com/cn/app/id6808490052) |
 | [方圆灵感导航 in](https://github.com/zhaoolee/in) | 带宝藏网站使用说明书的开源导航 [方圆灵感导航体验地址](https://v2fy.com/in/) |
 | [程序员梗图火炬](https://github.com/zhaoolee/xiaohongshu-programmer-memes) | 原创的程序员梗图连载 |
 | [用英语经典台词原音学英语](https://github.com/zhaoolee/inspop) | zhaoolee写的一个学习英语的Chrome扩展程序 |
